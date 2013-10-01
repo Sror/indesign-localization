@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/devtest/!svn/ver/2/trunk
+END
+info.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/devtest/!svn/ver/2/trunk/info.php
+END
+shortlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/devtest/!svn/ver/2/trunk/shortlist.php
+END
+TODO.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/devtest/!svn/ver/2/trunk/TODO.TXT
+END
+decline.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/devtest/!svn/ver/2/trunk/decline.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/devtest/!svn/ver/2/trunk/config.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/index.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/devtest/!svn/ver/2/trunk/download.php
+END
+4.5.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/4.5.1.sql
+END
+4.4.2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/4.4.2.sql
+END
+4.5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/devtest/!svn/ver/2/trunk/4.5.sql
+END
+4.5.3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/4.5.3.sql
+END
+clean_4.5.3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/devtest/!svn/ver/2/trunk/clean_4.5.3.sql
+END
+4.5.5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/4.5.5.sql
+END
+clean_4.5.5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/devtest/!svn/ver/2/trunk/clean_4.5.5.sql
+END
+default.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/devtest/!svn/ver/2/trunk/default.php
+END
+pre.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/devtest/!svn/ver/2/trunk/pre.php
+END

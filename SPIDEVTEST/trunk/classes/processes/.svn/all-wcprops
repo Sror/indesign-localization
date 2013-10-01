@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/devtest/!svn/ver/2/trunk/classes/processes
+END
+XLIFF2.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/classes/processes/XLIFF2.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/classes/processes/CSV.php
+END
+RTF.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/classes/processes/RTF.php
+END
+AdobeFLA_processor.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/devtest/!svn/ver/2/trunk/classes/processes/AdobeFLA_processor.php
+END
+Trados.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/classes/processes/Trados.php
+END
+DOCX.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/classes/processes/DOCX.php
+END
+DOCX_A.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/classes/processes/DOCX_A.php
+END
+XLIFF.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/classes/processes/XLIFF.php
+END
+BaseProcess.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/classes/processes/BaseProcess.php
+END
+Trados_DOCX.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/classes/processes/Trados_DOCX.php
+END
+Trados_lite.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/classes/processes/Trados_lite.php
+END
+AlterianCMExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/devtest/!svn/ver/2/trunk/classes/processes/AlterianCMExtractor.php
+END
+DOCX_locked.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/classes/processes/DOCX_locked.php
+END
+INDDFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/classes/processes/INDDFile.php
+END
+QuarkFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/classes/processes/QuarkFile.php
+END
+IDMLFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/classes/processes/IDMLFile.php
+END

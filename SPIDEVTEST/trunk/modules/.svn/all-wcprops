@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/devtest/!svn/ver/2/trunk/modules
+END
+mod_art_amend.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_amend.php
+END
+mod_task_customise.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_customise.php
+END
+mod_edit_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_photo.php
+END
+mod_art_tpl_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_tpl_data.php
+END
+mod_edit_spec.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_spec.php
+END
+mod_proofreader_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/modules/mod_proofreader_list.php
+END
+mod_task_tender.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_tender.php
+END
+mod_cp_brand_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_cp_brand_map.php
+END
+mod_task_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_edit.php
+END
+mod_pm_contacts.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_pm_contacts.php
+END
+mod_new_proofreader_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_proofreader_list.php
+END
+mod_support.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_support.php
+END
+mod_amend_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_amend_import.php
+END
+mod_para_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_para_order.php
+END
+mod_tm.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/devtest/!svn/ver/2/trunk/modules/mod_tm.php
+END
+mod_proofread.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_proofread.php
+END
+mod_filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_filesystem.php
+END
+mod_amend_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_amend_export.php
+END
+mod_camp_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_camp_edit.php
+END
+mod_cp_tm_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_cp_tm_search.php
+END
+mod_art_trash.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_trash.php
+END
+mod_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/modules/mod_header.php
+END
+mod_art_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_edit.php
+END
+mod_attachment_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/modules/mod_attachment_upload.php
+END
+mod_task_check.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_check.php
+END
+mod_list_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_list_search.php
+END
+mod_page_previews.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_page_previews.php
+END
+mod_art_layers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_layers.php
+END
+mod_art_tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_tpl.php
+END
+mod_task_version.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_version.php
+END
+mod_art_progress.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_progress.php
+END
+mod_art_amend_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_amend_history.php
+END
+mod_task_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_new.php
+END
+mod_task_terms.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_terms.php
+END
+mod_task_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_info.php
+END
+mod_list_nav.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_list_nav.php
+END
+mod_ftp_mkdir.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_mkdir.php
+END
+mod_new_task_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_task_edit.php
+END
+mod_ftp_rename.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_rename.php
+END
+mod_task_agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_agent.php
+END
+mod_cp_panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_cp_panel.php
+END
+mod_art_uploader.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_uploader.php
+END
+mod_storyman_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_storyman_edit.php
+END
+mod_art_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_page.php
+END
+mod_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/modules/mod_upload.php
+END
+mod_art_view_tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_view_tasks.php
+END
+mod_task_search_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_search_result.php
+END
+mod_edit_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_lang.php
+END
+mod_builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_builder.php
+END
+mod_para_ignore.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_para_ignore.php
+END
+mod_ftp_dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_dir.php
+END
+mod_task_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_search.php
+END
+mod_tmm_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_tmm_import.php
+END
+mod_art_saveas.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_saveas.php
+END
+mod_page_amended.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_page_amended.php
+END
+mod_task_download.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_download.php
+END
+mod_error_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_error_log.php
+END
+mod_art_tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/5/trunk/modules/mod_art_tasks.php
+END
+mod_camp_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_camp_info.php
+END
+mod_camp_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_camp_options.php
+END
+mod_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_options.php
+END
+mod_new_translator_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_translator_list.php
+END
+mod_tmm_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_tmm_export.php
+END
+mod_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/modules/mod_footer.php
+END
+mod_edit_pwd.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_pwd.php
+END
+mod_art_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_new.php
+END
+mod_logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/modules/mod_logo.php
+END
+mod_edit_rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_rate.php
+END
+mod_ftp_remote.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_remote.php
+END
+mod_edit_profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_edit_profile.php
+END
+mod_topup.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/devtest/!svn/ver/2/trunk/modules/mod_topup.php
+END
+mod_get_user_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_get_user_list.php
+END
+mod_functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_functions.php
+END
+mod_campaign_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_campaign_list.php
+END
+mod_task_fonts.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_fonts.php
+END
+mod_art_download.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_download.php
+END
+mod_art_guests.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_guests.php
+END
+mod_page_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_page_comments.php
+END
+mod_art_process.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_process.php
+END
+mod_translator_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/modules/mod_translator_list.php
+END
+mod_task_new_step_1.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_new_step_1.php
+END
+mod_task_new_step_2.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_new_step_2.php
+END
+mod_help.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/modules/mod_help.php
+END
+mod_ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp.php
+END
+mod_ftp_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_type.php
+END
+mod_task_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_import.php
+END
+mod_ftp_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_upload.php
+END
+mod_art_fonts.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_fonts.php
+END
+mod_art_tpl_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_tpl_import.php
+END
+mod_upload_tweaks.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/modules/mod_upload_tweaks.php
+END
+mod_ftp_local.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_ftp_local.php
+END
+mod_authorise.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/modules/mod_authorise.php
+END
+mod_task_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_export.php
+END
+mod_task_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_log.php
+END
+mod_media_play.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/modules/mod_media_play.php
+END
+mod_task_para_ignore.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/modules/mod_task_para_ignore.php
+END
+mod_art_img_lookup.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_img_lookup.php
+END
+mod_new_task_tender.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_task_tender.php
+END
+mod_new_task_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_task_details.php
+END
+mod_new_get_user_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/modules/mod_new_get_user_list.php
+END
+mod_art_img.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/modules/mod_art_img.php
+END
+mod_pdf_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/modules/mod_pdf_options.php
+END
+mod_pm_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/modules/mod_pm_new.php
+END
+mod_tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/devtest/!svn/ver/2/trunk/modules/mod_tasks.php
+END
+mod_camp_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/modules/mod_camp_new.php
+END

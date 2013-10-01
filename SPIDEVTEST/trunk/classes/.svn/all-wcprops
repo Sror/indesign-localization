@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/devtest/!svn/ver/2/trunk/classes
+END
+translator.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/classes/translator.php
+END
+BaseService.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/BaseService.php
+END
+Copy of INDD_Story_Rebuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/devtest/!svn/ver/2/trunk/classes/Copy%20of%20INDD_Story_Rebuilder.php
+END
+File_Zip.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/classes/File_Zip.php
+END
+Font_Substitution.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/classes/Font_Substitution.php
+END
+IDSSoap.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/devtest/!svn/ver/2/trunk/classes/IDSSoap.php
+END
+FTP_Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/devtest/!svn/ver/2/trunk/classes/FTP_Local.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/classes/database.php
+END
+INDD_Story_Rebuilder.bak.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/devtest/!svn/ver/2/trunk/classes/INDD_Story_Rebuilder.bak.php
+END
+File_Detector.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/classes/File_Detector.php
+END
+INDD_Story_Rebuilder.rar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/INDD_Story_Rebuilder.rar
+END
+Mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/devtest/!svn/ver/2/trunk/classes/Mailer.php
+END
+INDD_Story_Rebuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/INDD_Story_Rebuilder.php
+END
+imagemanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/classes/imagemanager.php
+END
+CSVImporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/CSVImporter.php
+END
+DocInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/devtest/!svn/ver/2/trunk/classes/DocInfo.php
+END
+language.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/classes/language.php
+END
+services.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/classes/services.php
+END
+CSVExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/CSVExporter.php
+END
+FTP_Sync.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/devtest/!svn/ver/2/trunk/classes/FTP_Sync.php
+END
+QXP_XML_Rebuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/devtest/!svn/ver/2/trunk/classes/QXP_XML_Rebuilder.php
+END
+QXP_XML_DOM.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/QXP_XML_DOM.php
+END
+indesign_vc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/indesign_vc.php
+END

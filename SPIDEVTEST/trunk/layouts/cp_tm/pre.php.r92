@@ -1,0 +1,75 @@
+<?php
+$access = array("system","cpanel");
+require_once(MODULES.'mod_authorise.php');
+
+if(!empty($_POST['form'])) {
+	
+	if($_POST['form']=="new") {
+		header("Location: index.php?layout=$layout&task=new");
+	}
+	
+	if($_POST['form']=="lookup") {
+		header("Location: index.php?layout=$layout&task=lookup");
+	}
+	
+	if($_POST['form']=="edit") {
+		$id = $_POST['id'][0];
+		header("Location: index.php?layout=$layout&task=edit&id=$id");
+	}
+
+	if($_POST['form']=="delete") {
+		foreach($_POST['id'] as $id) {
+			$DB->DeletePara($id,true);
+		}
+		header("Location: index.php?layout=$layout");
+	}
+	exit();
+}
+
+$by = isset($_POST['by'])?$_POST['by']:"id";
+$order = isset($_POST['order'])?$_POST['order']:"DESC";
+$keyword = isset($_POST['keyword'])?$_POST['keyword']:"";
+$pre = ($order=="ASC")?"DESC":"ASC";
+
+if(isset($_POST['filter_company'])) $_SESSION['filter_company'] = $_POST['filter_company'];
+$company_id = (isset($_POST['filter_company'])) ? $_POST['filter_company'] : (isset($_SESSION['filter_company']) ? $_SESSION['filter_company'] : $_SESSION['companyID']);
+if(isset($_POST['filter_tm_lang'])) $_SESSION['filter_tm_lang'] = $_POST['filter_tm_lang'];
+$lang_id = (isset($_POST['filter_tm_lang'])) ? $_POST['filter_tm_lang'] : (isset($_SESSION['filter_tm_lang']) ? $_SESSION['filter_tm_lang'] : $_SESSION['filter_tm_lang']);
+if(isset($_POST['filter_tm_type'])) $_SESSION['filter_tm_type'] = $_POST['filter_tm_type'];
+$type_id = (isset($_POST['filter_tm_type'])) ? $_POST['filter_tm_type'] : (isset($_SESSION['filter_tm_type']) ? $_SESSION['filter_tm_type'] : $_SESSION['filter_tm_type']);
+
+$sub = "";
+$sub .= !empty($lang_id) ? " AND paragraphs.LangID = $lang_id" : "";
+$sub .= !empty($type_id) ? " AND paragraphs.type_id = $type_id" : "";
+$query = sprintf("SELECT paragraphs.uID
+					FROM paragraphs
+					LEFT JOIN languages ON paragraphs.LangID = languages.languageID
+					LEFT JOIN users ON paragraphs.user_id = users.userID
+					LEFT JOIN companies ON users.companyID = companies.companyID
+					LEFT JOIN para_types ON paragraphs.type_id = para_types.id
+					LEFT JOIN brands ON paragraphs.brand_id = brands.brandID
+					LEFT JOIN subjects ON paragraphs.subject_id = subjects.subjectID
+					WHERE users.companyID = %d
+					%s
+					AND (paragraphs.ParaText LIKE '%s'
+					OR languages.languageName LIKE '%s'
+					OR para_types.name LIKE '%s'
+					OR users.username LIKE '%s'
+					OR brands.brandName LIKE '%s'
+					OR subjects.subjectTitle LIKE '%s')",
+					$company_id,
+					mysql_real_escape_string($sub),
+					"%".mysql_real_escape_string($keyword)."%",
+					"%".mysql_real_escape_string($keyword)."%",
+					"%".mysql_real_escape_string($keyword)."%",
+					"%".mysql_real_escape_string($keyword)."%",
+					"%".mysql_real_escape_string($keyword)."%",
+					"%".mysql_real_escape_string($keyword)."%");
+$result = mysql_query($query, $conn) or die(mysql_error());
+$total = mysql_num_rows($result);
+
+$limit = isset($_POST['limit'])?(int)$_POST['limit']:RPP;
+$pages = (ceil($total/$limit)==0)?1:ceil($total/$limit);
+$page = isset($_POST['page'])?(int)$_POST['page']:1;
+$offset = $limit*($page-1);
+?>

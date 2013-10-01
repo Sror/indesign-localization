@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/devtest/!svn/ver/2/trunk/acl/admin/smarty/libs
+END
+Smarty_Compiler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/devtest/!svn/ver/2/trunk/acl/admin/smarty/libs/Smarty_Compiler.class.php
+END
+debug.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/acl/admin/smarty/libs/debug.tpl
+END
+Smarty.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/devtest/!svn/ver/2/trunk/acl/admin/smarty/libs/Smarty.class.php
+END
+Config_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/devtest/!svn/ver/2/trunk/acl/admin/smarty/libs/Config_File.class.php
+END

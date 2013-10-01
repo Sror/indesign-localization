@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/devtest/!svn/ver/2/trunk/acl/admin
+END
+admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/devtest/!svn/ver/2/trunk/acl/admin/admin.css
+END
+acl_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/acl/admin/acl_list.php
+END
+object_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/acl/admin/object_search.php
+END
+edit_objects.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/acl/admin/edit_objects.php
+END
+assign_group.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/devtest/!svn/ver/2/trunk/acl/admin/assign_group.php
+END
+edit_group.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/devtest/!svn/ver/2/trunk/acl/admin/edit_group.php
+END
+acl_admin_api.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/devtest/!svn/ver/2/trunk/acl/admin/acl_admin_api.class.php
+END
+group_admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/devtest/!svn/ver/2/trunk/acl/admin/group_admin.php
+END
+acl_debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/acl/admin/acl_debug.php
+END
+admin_functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/devtest/!svn/ver/2/trunk/acl/admin/admin_functions.js
+END
+acl_admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/acl/admin/acl_admin.php
+END
+acl_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/devtest/!svn/ver/2/trunk/acl/admin/acl_admin.inc.php
+END
+s.gif
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/devtest/!svn/ver/2/trunk/acl/admin/s.gif
+END
+.noencode
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/devtest/!svn/ver/2/trunk/acl/admin/.noencode
+END
+edit_object_sections.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/devtest/!svn/ver/2/trunk/acl/admin/edit_object_sections.php
+END

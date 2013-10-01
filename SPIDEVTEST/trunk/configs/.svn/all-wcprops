@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/devtest/!svn/ver/2/trunk/configs
+END
+config.dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/configs/config.dir.php
+END
+config.lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/configs/config.lang.php
+END
+config.log.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/devtest/!svn/ver/2/trunk/configs/config.log.php
+END
+config.cons.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/configs/config.cons.php
+END
+config.mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/configs/config.mail.php
+END
+config.soap.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/configs/config.soap.php
+END
+config.site.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/configs/config.site.php
+END

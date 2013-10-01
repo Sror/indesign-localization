@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/devtest/!svn/ver/2/trunk/acl
+END
+acl_api.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/devtest/!svn/ver/2/trunk/acl/acl_api.class.php
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/devtest/!svn/ver/2/trunk/acl/acl.ini.php
+END
+acl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/devtest/!svn/ver/2/trunk/acl/acl.class.php
+END

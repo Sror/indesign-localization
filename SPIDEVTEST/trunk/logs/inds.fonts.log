@@ -1,0 +1,1274 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Server>
+<ServerInfo>
+<Name>Adobe InDesign Server</Name>
+<Version>7.0.0.355</Version>
+</ServerInfo>
+<ServerFonts>
+<Font Family="3ds" Name="3ds-Light" Style="Light" Status="INSTALLED" SubstitutedFont="3ds	Light" />
+<Font Family="3ds" Name="3ds" Style="Regular" Status="INSTALLED" SubstitutedFont="3ds	Regular" />
+<Font Family="3ds" Name="3ds-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="3ds	Bold" />
+<Font Family="Agency FB" Name="AgencyFB-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Agency FB	Regular" />
+<Font Family="Agency FB" Name="AgencyFB-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Agency FB	Bold" />
+<Font Family="Agenda" Name="Agenda-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Agenda	Medium" />
+<Font Family="Agenda" Name="Agenda-MediumItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Agenda	Italic" />
+<Font Family="Agenda" Name="Agenda-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Agenda	Bold" />
+<Font Family="Agenda Black" Name="Agenda-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda Black	Regular" />
+<Font Family="Agenda Condensed" Name="Agenda-MediumCondensed" Style="Medium" Status="INSTALLED" SubstitutedFont="Agenda Condensed	Medium" />
+<Font Family="Agenda Condensed" Name="Agenda-BoldCondensed" Style="Bold" Status="INSTALLED" SubstitutedFont="Agenda Condensed	Bold" />
+<Font Family="Agenda ExtraCondensed" Name="Agenda-MediumExtraCondensed" Style="Medium" Status="INSTALLED" SubstitutedFont="Agenda ExtraCondensed	Medium" />
+<Font Family="Agenda ExtraCondensed" Name="Agenda-BoldExtraCondensed" Style="Bold" Status="INSTALLED" SubstitutedFont="Agenda ExtraCondensed	Bold" />
+<Font Family="Agenda Light" Name="Agenda-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda Light	Regular" />
+<Font Family="Agenda Light" Name="Agenda-LightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Agenda Light	Italic" />
+<Font Family="Agenda LightCondensed" Name="Agenda-LightCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda LightCondensed	Regular" />
+<Font Family="Agenda LightExtraCondensed" Name="Agenda-LightExtraCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda LightExtraCondensed	Regular" />
+<Font Family="Agenda LightUltraCondensed" Name="Agenda-LightUltraCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda LightUltraCondensed	Regular" />
+<Font Family="Agenda ThinUltraCondensed" Name="Agenda-ThinUltraCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Agenda ThinUltraCondensed	Regular" />
+<Font Family="Agenda UltraCondensed" Name="Agenda-MediumUltraCondensed" Style="Medium" Status="INSTALLED" SubstitutedFont="Agenda UltraCondensed	Medium" />
+<Font Family="Agenda UltraCondensed" Name="Agenda-BoldUltraCondensed" Style="Bold" Status="INSTALLED" SubstitutedFont="Agenda UltraCondensed	Bold" />
+<Font Family="Algerian" Name="Algerian" Style="Regular" Status="INSTALLED" SubstitutedFont="Algerian	Regular" />
+<Font Family="Alinea Serif" Name="Alinea-SerifMedium" Style="Medium" Status="INSTALLED" SubstitutedFont="Alinea Serif	Medium" />
+<Font Family="Alinea Serif" Name="Alinea-SerifItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Alinea Serif	Italic" />
+<Font Family="Alinea Serif" Name="Alinea-SerifBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Alinea Serif	Bold" />
+<Font Family="Alinea Serif Normal" Name="Alinea-SerifNormal" Style="Regular" Status="INSTALLED" SubstitutedFont="Alinea Serif Normal	Regular" />
+<Font Family="AlineaRoman" Name="AlineaRoman-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="AlineaRoman	Regular" />
+<Font Family="AlineaRoman" Name="AlineaRoman-RegularItalic" Style="Regular Italic" Status="INSTALLED" SubstitutedFont="AlineaRoman	Regular Italic" />
+<Font Family="AlineaRoman" Name="AlineaRoman-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="AlineaRoman	Bold" />
+<Font Family="AlineaRoman" Name="AlineaRoman-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="AlineaRoman	Bold Italic" />
+<Font Family="AlineaRomanExp" Name="AlineaRomanExp-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="AlineaRomanExp	Regular" />
+<Font Family="AlineaRomanExp" Name="AlineaRomanExp-RegularItalic" Style="Regular Italic" Status="INSTALLED" SubstitutedFont="AlineaRomanExp	Regular Italic" />
+<Font Family="AlineaRomanExp" Name="AlineaRomanExp-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="AlineaRomanExp	Bold" />
+<Font Family="AlineaRomanExp" Name="AlineaRomanExp-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="AlineaRomanExp	Bold Italic" />
+<Font Family="AlineaRomanExpMedium" Name="AlineaRomanExpMedium" Style="Regular" Status="INSTALLED" SubstitutedFont="AlineaRomanExpMedium	Regular" />
+<Font Family="AlineaRomanExpMedium" Name="AlineaRomanExpMedium-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="AlineaRomanExpMedium	Italic" />
+<Font Family="AlineaRomanMedium" Name="AlineaRomanMedium" Style="Regular" Status="INSTALLED" SubstitutedFont="AlineaRomanMedium	Regular" />
+<Font Family="AlineaRomanMedium" Name="AlineaRomanMedium-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="AlineaRomanMedium	Italic" />
+<Font Family="Alpha Headline" Name="AlphaHeadline" Style="Regular" Status="INSTALLED" SubstitutedFont="Alpha Headline	Regular" />
+<Font Family="Alpha Headline" Name="AlphaHeadline-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Alpha Headline	Bold" />
+<Font Family="Alpha Headline Expert" Name="AlphaHeadlineExpert" Style="Regular" Status="INSTALLED" SubstitutedFont="Alpha Headline Expert	Regular" />
+<Font Family="Alpha Headline Expert" Name="AlphaHeadlineExpert-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Alpha Headline Expert	Bold" />
+<Font Family="AlphaHeadlineCE" Name="AlphaHeadlineCEBold" Style="Bold" Status="INSTALLED" SubstitutedFont="AlphaHeadlineCE	Bold" />
+<Font Family="Angelina" Name="Angelina" Style="Regular" Status="INSTALLED" SubstitutedFont="Angelina	Regular" />
+<Font Family="Aparajita" Name="Aparajita" Style="Regular" Status="INSTALLED" SubstitutedFont="Aparajita	Regular" />
+<Font Family="Aparajita" Name="Aparajita-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Aparajita	Italic" />
+<Font Family="Aparajita" Name="Aparajita-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Aparajita	Bold" />
+<Font Family="Aparajita" Name="Aparajita-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Aparajita	Bold Italic" />
+<Font Family="Arabic Typesetting" Name="ArabicTypesetting" Style="Regular" Status="INSTALLED" SubstitutedFont="Arabic Typesetting	Regular" />
+<Font Family="Archer" Name="Archer-Hairline" Style="Hairline" Status="INSTALLED" SubstitutedFont="Archer	Hairline" />
+<Font Family="Archer" Name="Archer-HairlineItalic" Style="Hairline Italic" Status="INSTALLED" SubstitutedFont="Archer	Hairline Italic" />
+<Font Family="Archer" Name="Archer-Thin" Style="Thin" Status="INSTALLED" SubstitutedFont="Archer	Thin" />
+<Font Family="Archer" Name="Archer-ThinItalic" Style="Thin Italic" Status="INSTALLED" SubstitutedFont="Archer	Thin Italic" />
+<Font Family="Archer" Name="Archer-ExtraLight" Style="Extra Light" Status="INSTALLED" SubstitutedFont="Archer	Extra Light" />
+<Font Family="Archer" Name="Archer-ExtraLightItalic" Style="Extra Light Italic" Status="INSTALLED" SubstitutedFont="Archer	Extra Light Italic" />
+<Font Family="Archer" Name="Archer-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Archer	Light" />
+<Font Family="Archer" Name="Archer-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Archer	Light Italic" />
+<Font Family="Archer" Name="Archer-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Archer	Book" />
+<Font Family="Archer" Name="Archer-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Archer	Book Italic" />
+<Font Family="Archer" Name="Archer-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Archer	Medium" />
+<Font Family="Archer" Name="Archer-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Archer	Medium Italic" />
+<Font Family="Archer" Name="Archer-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Archer	Semibold" />
+<Font Family="Archer" Name="Archer-SemiboldItalic" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="Archer	Semibold Italic" />
+<Font Family="Archer" Name="Archer-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Archer	Bold" />
+<Font Family="Archer" Name="Archer-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Archer	Bold Italic" />
+<Font Family="Arial" Name="ArialMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Arial	Regular" />
+<Font Family="Arial" Name="Arial-ItalicMT" Style="Italic" Status="INSTALLED" SubstitutedFont="Arial	Italic" />
+<Font Family="Arial" Name="Arial-BoldMT" Style="Bold" Status="INSTALLED" SubstitutedFont="Arial	Bold" />
+<Font Family="Arial" Name="Arial-BoldItalicMT" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Arial	Bold Italic" />
+<Font Family="Arial" Name="Arial-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Arial	Black" />
+<Font Family="Arial Narrow" Name="ArialNarrow" Style="Regular" Status="INSTALLED" SubstitutedFont="Arial Narrow	Regular" />
+<Font Family="Arial Narrow" Name="ArialNarrow-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Arial Narrow	Italic" />
+<Font Family="Arial Narrow" Name="ArialNarrow-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Arial Narrow	Bold" />
+<Font Family="Arial Narrow" Name="ArialNarrow-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Arial Narrow	Bold Italic" />
+<Font Family="Arial Rounded MT Bold" Name="ArialRoundedMTBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Arial Rounded MT Bold	Regular" />
+<Font Family="Arno Pro" Name="ArnoPro-Display" Style="Display" Status="INSTALLED" SubstitutedFont="Arno Pro	Display" />
+<Font Family="ITC Avant Garde Gothic" Name="AvantGarde-Book" Style="Book" Status="INSTALLED" SubstitutedFont="ITC Avant Garde Gothic	Book" />
+<Font Family="ITC Avant Garde Gothic" Name="AvantGarde-Demi" Style="Demi" Status="INSTALLED" SubstitutedFont="ITC Avant Garde Gothic	Demi" />
+<Font Family="AvantGarde" Name="AvantGarde-BookOblique" Style="BookOblique" Status="INSTALLED" SubstitutedFont="AvantGarde	BookOblique" />
+<Font Family="AvantGarde" Name="AvantGarde-DemiOblique" Style="DemiOblique" Status="INSTALLED" SubstitutedFont="AvantGarde	DemiOblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Light" Style="35 Light" Status="INSTALLED" SubstitutedFont="Avenir LT Std	35 Light" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-LightOblique" Style="35 Light Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	35 Light Oblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Book" Style="45 Book" Status="INSTALLED" SubstitutedFont="Avenir LT Std	45 Book" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-BookOblique" Style="45 Book Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	45 Book Oblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Roman" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Avenir LT Std	55 Roman" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Oblique" Style="55 Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	55 Oblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Medium" Style="65 Medium" Status="INSTALLED" SubstitutedFont="Avenir LT Std	65 Medium" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-MediumOblique" Style="65 Medium Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	65 Medium Oblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Heavy" Style="85 Heavy" Status="INSTALLED" SubstitutedFont="Avenir LT Std	85 Heavy" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-HeavyOblique" Style="85 Heavy Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	85 Heavy Oblique" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-Black" Style="95 Black" Status="INSTALLED" SubstitutedFont="Avenir LT Std	95 Black" />
+<Font Family="Avenir LT Std" Name="AvenirLTStd-BlackOblique" Style="95 Black Oblique" Status="INSTALLED" SubstitutedFont="Avenir LT Std	95 Black Oblique" />
+<Font Family="Avenir Next W1G" Name="AvenirNextW1G-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Avenir Next W1G	Regular" />
+<Font Family="Avenir Next W1G" Name="AvenirNextW1G-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Avenir Next W1G	Medium" />
+<Font Family="Avenir Next W1G" Name="AvenirNextW1G-Demi" Style="Demi" Status="INSTALLED" SubstitutedFont="Avenir Next W1G	Demi" />
+<Font Family="Avenir Next W1G" Name="AvenirNextW1G-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Avenir Next W1G	Bold" />
+<Font Family="ITC New Baskerville" Name="NewBaskerville-Roman" Style="Regular" Status="INSTALLED" SubstitutedFont="ITC New Baskerville	Regular" />
+<Font Family="ITC New Baskerville LT" Name="NewBaskervilleLT-Roman" Style="Regular" Status="INSTALLED" SubstitutedFont="ITC New Baskerville LT	Regular" />
+<Font Family="Baskerville Old Face" Name="BaskOldFace" Style="Regular" Status="INSTALLED" SubstitutedFont="Baskerville Old Face	Regular" />
+<Font Family="Bauhaus 93" Name="Bauhaus93" Style="Regular" Status="INSTALLED" SubstitutedFont="Bauhaus 93	Regular" />
+<Font Family="Bell MT" Name="BellMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Bell MT	Regular" />
+<Font Family="Bell MT" Name="BellMTItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Bell MT	Italic" />
+<Font Family="Bell MT" Name="BellMTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Bell MT	Bold" />
+<Font Family="Berlin Sans FB" Name="BerlinSansFB-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Berlin Sans FB	Regular" />
+<Font Family="Berlin Sans FB" Name="BerlinSansFB-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Berlin Sans FB	Bold" />
+<Font Family="Berlin Sans FB Demi" Name="BerlinSansFBDemi-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Berlin Sans FB Demi	Bold" />
+<Font Family="Bernard MT Condensed" Name="BernardMT-Condensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Bernard MT Condensed	Regular" />
+<Font Family="Birch Std" Name="BirchStd" Style="Regular" Status="INSTALLED" SubstitutedFont="Birch Std	Regular" />
+<Font Family="Blackadder ITC" Name="BlackadderITC-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Blackadder ITC	Regular" />
+<Font Family="Blackoak Std" Name="BlackoakStd" Style="Regular" Status="INSTALLED" SubstitutedFont="Blackoak Std	Regular" />
+<Font Family="Bodoni BT" Name="BodoniBT-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Bodoni BT	Book" />
+<Font Family="Bodoni BT" Name="BodoniBT-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Bodoni BT	Book Italic" />
+<Font Family="Bodoni BT" Name="BodoniBT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Bodoni BT	Bold" />
+<Font Family="Bodoni BT" Name="BodoniBT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Bodoni BT	Bold Italic" />
+<Font Family="Bodoni MT" Name="BodoniMTPosterCompressed" Style="Poster Compressed" Status="INSTALLED" SubstitutedFont="Bodoni MT	Poster Compressed" />
+<Font Family="Bodoni MT" Name="BodoniMTCondensed" Style="Condensed" Status="INSTALLED" SubstitutedFont="Bodoni MT	Condensed" />
+<Font Family="Bodoni MT" Name="BodoniMTCondensed-Italic" Style="Condensed Italic" Status="INSTALLED" SubstitutedFont="Bodoni MT	Condensed Italic" />
+<Font Family="Bodoni MT" Name="BodoniMTCondensed-Bold" Style="Condensed Bold" Status="INSTALLED" SubstitutedFont="Bodoni MT	Condensed Bold" />
+<Font Family="Bodoni MT" Name="BodoniMTCondensed-BoldItalic" Style="Condensed Bold Italic" Status="INSTALLED" SubstitutedFont="Bodoni MT	Condensed Bold Italic" />
+<Font Family="Bodoni MT" Name="BodoniMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Bodoni MT	Regular" />
+<Font Family="Bodoni MT" Name="BodoniMT-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Bodoni MT	Italic" />
+<Font Family="Bodoni MT" Name="BodoniMT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Bodoni MT	Bold" />
+<Font Family="Bodoni MT" Name="BodoniMT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Bodoni MT	Bold Italic" />
+<Font Family="Bodoni MT" Name="BodoniMTBlack" Style="Black" Status="INSTALLED" SubstitutedFont="Bodoni MT	Black" />
+<Font Family="Bodoni MT" Name="BodoniMTBlack-Italic" Style="Black Italic" Status="INSTALLED" SubstitutedFont="Bodoni MT	Black Italic" />
+<Font Family="Book Antiqua" Name="BookAntiqua" Style="Regular" Status="INSTALLED" SubstitutedFont="Book Antiqua	Regular" />
+<Font Family="Book Antiqua" Name="BookAntiqua-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Book Antiqua	Italic" />
+<Font Family="Book Antiqua" Name="BookAntiqua-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Book Antiqua	Bold" />
+<Font Family="Book Antiqua" Name="BookAntiqua-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Book Antiqua	Bold Italic" />
+<Font Family="Bookman Old Style" Name="BookmanOldStyle" Style="Regular" Status="INSTALLED" SubstitutedFont="Bookman Old Style	Regular" />
+<Font Family="Bookman Old Style" Name="BookmanOldStyle-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Bookman Old Style	Italic" />
+<Font Family="Bookman Old Style" Name="BookmanOldStyle-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Bookman Old Style	Bold" />
+<Font Family="Bookman Old Style" Name="BookmanOldStyle-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Bookman Old Style	Bold Italic" />
+<Font Family="Bookshelf Symbol 7" Name="BookshelfSymbolSeven" Style="Regular" Status="INSTALLED" SubstitutedFont="Bookshelf Symbol 7	Regular" />
+<Font Family="Bradley Hand ITC" Name="BradleyHandITC" Style="Regular" Status="INSTALLED" SubstitutedFont="Bradley Hand ITC	Regular" />
+<Font Family="BRH JHK01" Name="BRHJHK01" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK01	Regular" />
+<Font Family="BRH JHK02" Name="BRHJHK02" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK02	Regular" />
+<Font Family="BRH JHK03" Name="BRHJHK03" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK03	Regular" />
+<Font Family="BRH JHK04" Name="BRHJHK04" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK04	Regular" />
+<Font Family="BRH JHK05" Name="BRHJHK05" Style="Bold" Status="INSTALLED" SubstitutedFont="BRH JHK05	Bold" />
+<Font Family="BRH JHK06" Name="BRHJHK06" Style="Bold" Status="INSTALLED" SubstitutedFont="BRH JHK06	Bold" />
+<Font Family="BRH JHK07" Name="BRHJHK07" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK07	Regular" />
+<Font Family="BRH JHK08" Name="BRHJHK08" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK08	Regular" />
+<Font Family="BRH JHK09" Name="BRHJHK09" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK09	Regular" />
+<Font Family="BRH JHK10" Name="BRHJHK10" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK10	Regular" />
+<Font Family="BRH JHK11" Name="BRHJHK11" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK11	Regular" />
+<Font Family="BRH JHK12" Name="BRHJHK12" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK12	Regular" />
+<Font Family="BRH JHK13" Name="BRHJHK13" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK13	Regular" />
+<Font Family="BRH JHK14" Name="BRHJHK14" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK14	Regular" />
+<Font Family="BRH JHK15" Name="BRHJHK15" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK15	Regular" />
+<Font Family="BRH JHK16" Name="BRHJHK16" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK16	Regular" />
+<Font Family="BRH JHK17" Name="BRHJHK17" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK17	Regular" />
+<Font Family="BRH JHK18" Name="BRHJHK18" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK18	Regular" />
+<Font Family="BRH JHK19" Name="BRHJHK19" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK19	Regular" />
+<Font Family="BRH JHK20" Name="BRHJHK20" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK20	Regular" />
+<Font Family="BRH JHK21" Name="BRHJHK21" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK21	Regular" />
+<Font Family="BRH JHK22" Name="BRHJHK22" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK22	Regular" />
+<Font Family="BRH JHK23" Name="BRHJHK23" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK23	Regular" />
+<Font Family="BRH JHK24" Name="BRHJHK24" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK24	Regular" />
+<Font Family="BRH JHK25" Name="BRHJHK25" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK25	Regular" />
+<Font Family="BRH JHK26" Name="BRHJHK26" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK26	Regular" />
+<Font Family="BRH JHK27" Name="BRHJHK27" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK27	Regular" />
+<Font Family="BRH JHK28" Name="BRHJHK28" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK28	Regular" />
+<Font Family="BRH JHK29" Name="BRHJHK29" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK29	Regular" />
+<Font Family="BRH JHK30" Name="BRHJHK30" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JHK30	Regular" />
+<Font Family="BRH JSHK31" Name="BRHJSHK31" Style="Regular" Status="INSTALLED" SubstitutedFont="BRH JSHK31	Regular" />
+<Font Family="Britannic Bold" Name="BritannicBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Britannic Bold	Regular" />
+<Font Family="Broadway" Name="Broadway" Style="Regular" Status="INSTALLED" SubstitutedFont="Broadway	Regular" />
+<Font Family="Brush Script MT" Name="BrushScriptMT" Style="Italic" Status="INSTALLED" SubstitutedFont="Brush Script MT	Italic" />
+<Font Family="Brush Script Std" Name="BrushScriptStd" Style="Medium" Status="INSTALLED" SubstitutedFont="Brush Script Std	Medium" />
+<Font Family="Caflisch Script Pro" Name="CaflischScriptPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Caflisch Script Pro	Regular" />
+<Font Family="Calibri" Name="Calibri-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Calibri	Light" />
+<Font Family="Calibri" Name="Calibri-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Calibri	Light Italic" />
+<Font Family="Calibri" Name="Calibri" Style="Regular" Status="INSTALLED" SubstitutedFont="Calibri	Regular" />
+<Font Family="Calibri" Name="Calibri-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Calibri	Italic" />
+<Font Family="Calibri" Name="Calibri-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Calibri	Bold" />
+<Font Family="Calibri" Name="Calibri-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Calibri	Bold Italic" />
+<Font Family="Californian FB" Name="CalifornianFB-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Californian FB	Regular" />
+<Font Family="Californian FB" Name="CalifornianFB-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Californian FB	Italic" />
+<Font Family="Californian FB" Name="CalifornianFB-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Californian FB	Bold" />
+<Font Family="Calisto MT" Name="CalistoMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Calisto MT	Regular" />
+<Font Family="Calisto MT" Name="CalistoMT-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Calisto MT	Italic" />
+<Font Family="Calisto MT" Name="CalisMTBol" Style="Bold" Status="INSTALLED" SubstitutedFont="Calisto MT	Bold" />
+<Font Family="Calisto MT" Name="CalistoMT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Calisto MT	Bold Italic" />
+<Font Family="Cambria" Name="Cambria" Style="Regular" Status="INSTALLED" SubstitutedFont="Cambria	Regular" />
+<Font Family="Cambria" Name="Cambria-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Cambria	Italic" />
+<Font Family="Cambria" Name="Cambria-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Cambria	Bold" />
+<Font Family="Cambria" Name="Cambria-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Cambria	Bold Italic" />
+<Font Family="Cambria Math" Name="CambriaMath" Style="Regular" Status="INSTALLED" SubstitutedFont="Cambria Math	Regular" />
+<Font Family="Candara" Name="Candara" Style="Regular" Status="INSTALLED" SubstitutedFont="Candara	Regular" />
+<Font Family="Candara" Name="Candara-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Candara	Italic" />
+<Font Family="Candara" Name="Candara-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Candara	Bold" />
+<Font Family="Candara" Name="Candara-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Candara	Bold Italic" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Regular" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Italic" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Semibold" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-SemiboldItalic" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Semibold Italic" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Bold" />
+<Font Family="Adobe Caslon Pro" Name="ACaslonPro-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Adobe Caslon Pro	Bold Italic" />
+<Font Family="Castellar" Name="Castellar" Style="Regular" Status="INSTALLED" SubstitutedFont="Castellar	Regular" />
+<Font Family="Centaur" Name="Centaur" Style="Regular" Status="INSTALLED" SubstitutedFont="Centaur	Regular" />
+<Font Family="Century" Name="Century" Style="Regular" Status="INSTALLED" SubstitutedFont="Century	Regular" />
+<Font Family="Century Schoolbook" Name="CenturySchoolbook" Style="Regular" Status="INSTALLED" SubstitutedFont="Century Schoolbook	Regular" />
+<Font Family="Century Schoolbook" Name="CenturySchoolbook-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Century Schoolbook	Italic" />
+<Font Family="Century Schoolbook" Name="CenturySchoolbook-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Century Schoolbook	Bold" />
+<Font Family="Century Schoolbook" Name="CenturySchoolbook-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Century Schoolbook	Bold Italic" />
+<Font Family="Chaparral Pro" Name="ChaparralPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Chaparral Pro	Regular" />
+<Font Family="Chaparral Pro" Name="ChaparralPro-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Chaparral Pro	Italic" />
+<Font Family="Chaparral Pro" Name="ChaparralPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Chaparral Pro	Bold" />
+<Font Family="Chaparral Pro" Name="ChaparralPro-BoldIt" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Chaparral Pro	Bold Italic" />
+<Font Family="Charlemagne Std" Name="CharlemagneStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Charlemagne Std	Bold" />
+<Font Family="Chiller" Name="Chiller-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Chiller	Regular" />
+<Font Family="Colonna MT" Name="ColonnaMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Colonna MT	Regular" />
+<Font Family="Comic Sans MS" Name="ComicSansMS" Style="Regular" Status="INSTALLED" SubstitutedFont="Comic Sans MS	Regular" />
+<Font Family="Comic Sans MS" Name="ComicSansMS-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Comic Sans MS	Bold" />
+<Font Family="Commercial Pi BT" Name="CommercialPiBT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Commercial Pi BT	Regular" />
+<Font Family="Compacta BT" Name="CompactaBT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Compacta BT	Bold" />
+<Font Family="Compacta BT" Name="CompactaBT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Compacta BT	Bold Italic" />
+<Font Family="Consolas" Name="Consolas" Style="Regular" Status="INSTALLED" SubstitutedFont="Consolas	Regular" />
+<Font Family="Consolas" Name="Consolas-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Consolas	Italic" />
+<Font Family="Consolas" Name="Consolas-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Consolas	Bold" />
+<Font Family="Consolas" Name="Consolas-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Consolas	Bold Italic" />
+<Font Family="Constantia" Name="Constantia" Style="Regular" Status="INSTALLED" SubstitutedFont="Constantia	Regular" />
+<Font Family="Constantia" Name="Constantia-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Constantia	Italic" />
+<Font Family="Constantia" Name="Constantia-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Constantia	Bold" />
+<Font Family="Constantia" Name="Constantia-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Constantia	Bold Italic" />
+<Font Family="Cooper Black" Name="CooperBlack" Style="Regular" Status="INSTALLED" SubstitutedFont="Cooper Black	Regular" />
+<Font Family="Cooper Std" Name="CooperBlackStd" Style="Black" Status="INSTALLED" SubstitutedFont="Cooper Std	Black" />
+<Font Family="Cooper Std" Name="CooperBlackStd-Italic" Style="Black Italic" Status="INSTALLED" SubstitutedFont="Cooper Std	Black Italic" />
+<Font Family="Copperplate Gothic Bold" Name="CopperplateGothic-Bold" Style="Regular" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Bold	Regular" />
+<Font Family="Copperplate Gothic Light" Name="CopperplateGothic-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Light	Regular" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-29AB" Style="29 AB" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	29 AB" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-29BC" Style="29 BC" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	29 BC" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-30AB" Style="30 AB" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	30 AB" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-30BC" Style="30 BC" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	30 BC" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-31AB" Style="31 AB" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	31 AB" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-31BC" Style="31 BC" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	31 BC" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-32AB" Style="32 AB" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	32 AB" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-32BC" Style="32 BC" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	32 BC" />
+<Font Family="Copperplate Gothic Std" Name="CopperplateGothicStd-33BC" Style="33 BC" Status="INSTALLED" SubstitutedFont="Copperplate Gothic Std	33 BC" />
+<Font Family="Corbel" Name="Corbel" Style="Regular" Status="INSTALLED" SubstitutedFont="Corbel	Regular" />
+<Font Family="Corbel" Name="Corbel-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Corbel	Italic" />
+<Font Family="Corbel" Name="Corbel-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Corbel	Bold" />
+<Font Family="Corbel" Name="Corbel-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Corbel	Bold Italic" />
+<Font Family="Monotype Corsiva" Name="MonotypeCorsiva" Style="Regular" Status="INSTALLED" SubstitutedFont="Monotype Corsiva	Regular" />
+<Font Family="Courier" Name="CourierPS" Style="PS" Status="INSTALLED" SubstitutedFont="Courier	PS" />
+<Font Family="Courier" Name="CourierPS-Italic" Style="PS Italic" Status="INSTALLED" SubstitutedFont="Courier	PS Italic" />
+<Font Family="Courier" Name="CourierPS-Bold" Style="PS Bold" Status="INSTALLED" SubstitutedFont="Courier	PS Bold" />
+<Font Family="Courier" Name="CourierPS-BoldItalic" Style="PS Bold Italic" Status="INSTALLED" SubstitutedFont="Courier	PS Bold Italic" />
+<Font Family="Courier New" Name="CourierNewPSMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Courier New	Regular" />
+<Font Family="Courier New" Name="CourierNewPS-ItalicMT" Style="Italic" Status="INSTALLED" SubstitutedFont="Courier New	Italic" />
+<Font Family="Courier New" Name="CourierNewPS-BoldMT" Style="Bold" Status="INSTALLED" SubstitutedFont="Courier New	Bold" />
+<Font Family="Courier New" Name="CourierNewPS-BoldItalicMT" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Courier New	Bold Italic" />
+<Font Family="Courier10 BT WGL4" Name="Courier10BTWGL4-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="Courier10 BT WGL4	Roman" />
+<Font Family="Courier10 BT WGL4" Name="Courier10BTWGL4-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Courier10 BT WGL4	Italic" />
+<Font Family="Courier10 BT WGL4" Name="Courier10BTWGL4-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Courier10 BT WGL4	Bold" />
+<Font Family="Courier10 BT WGL4" Name="Courier10BTWGL4-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Courier10 BT WGL4	Bold Italic" />
+<Font Family="CrossStitchSolid" Name="CrossStitchSolid" Style="Regular" Status="INSTALLED" SubstitutedFont="CrossStitchSolid	Regular" />
+<Font Family="Curlz MT" Name="CurlzMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Curlz MT	Regular" />
+<Font Family="DaunPenh" Name="DaunPenh" Style="Regular" Status="INSTALLED" SubstitutedFont="DaunPenh	Regular" />
+<Font Family="Delta Jaeger" Name="Delta-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Delta Jaeger	Light" />
+<Font Family="Delta Jaeger" Name="Delta-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Delta Jaeger	Book" />
+<Font Family="Delta Jaeger" Name="Delta-Medium" Style="Regular " Status="INSTALLED" SubstitutedFont="Delta Jaeger	Regular " />
+<Font Family="DIN-Black" Name="DIN-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-Black	Regular" />
+<Font Family="DIN-Bold" Name="DIN-Bold" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-Bold	Regular" />
+<Font Family="DIN-Light" Name="DIN-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-Light	Regular" />
+<Font Family="DIN-Medium" Name="DIN-Medium" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-Medium	Regular" />
+<Font Family="DIN-Regular" Name="DIN-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-Regular	Regular" />
+<Font Family="DIN-RegularItalic" Name="DIN-RegularItalic" Style="Regular" Status="INSTALLED" SubstitutedFont="DIN-RegularItalic	Regular" />
+<Font Family="Ebrima" Name="Ebrima" Style="Regular" Status="INSTALLED" SubstitutedFont="Ebrima	Regular" />
+<Font Family="Ebrima" Name="Ebrima-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Ebrima	Bold" />
+<Font Family="Edwardian Script ITC" Name="EdwardianScriptITC" Style="Regular" Status="INSTALLED" SubstitutedFont="Edwardian Script ITC	Regular" />
+<Font Family="Elephant" Name="Elephant-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Elephant	Regular" />
+<Font Family="Elephant" Name="Elephant-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Elephant	Italic" />
+<Font Family="Engravers MT" Name="EngraversMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Engravers MT	Regular" />
+<Font Family="Eras Bold ITC" Name="ErasITC-Bold" Style="Regular" Status="INSTALLED" SubstitutedFont="Eras Bold ITC	Regular" />
+<Font Family="Eras Demi ITC" Name="ErasITC-Demi" Style="Regular" Status="INSTALLED" SubstitutedFont="Eras Demi ITC	Regular" />
+<Font Family="Eras Light ITC" Name="ErasITC-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Eras Light ITC	Regular" />
+<Font Family="Eras Medium ITC" Name="ErasITC-Medium" Style="Regular" Status="INSTALLED" SubstitutedFont="Eras Medium ITC	Regular" />
+<Font Family="Estrangelo Edessa" Name="EstrangeloEdessa" Style="Regular" Status="INSTALLED" SubstitutedFont="Estrangelo Edessa	Regular" />
+<Font Family="Euphemia" Name="EuphemiaCAS" Style="Regular" Status="INSTALLED" SubstitutedFont="Euphemia	Regular" />
+<Font Family="Felix Titling" Name="FelixTitlingMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Felix Titling	Regular" />
+<Font Family="Foco" Name="Foco-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Foco	Regular" />
+<Font Family="Foco" Name="Foco-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Foco	Bold" />
+<Font Family="Foco Light" Name="FocoLight-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Foco Light	Regular" />
+<Font Family="Footlight MT Light" Name="FootlightMTLight" Style="Regular" Status="INSTALLED" SubstitutedFont="Footlight MT Light	Regular" />
+<Font Family="Forte" Name="ForteMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Forte	Regular" />
+<Font Family="Franklin Gothic Book" Name="FranklinGothic-Book" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Book	Regular" />
+<Font Family="Franklin Gothic Book" Name="FranklinGothic-BookItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Franklin Gothic Book	Italic" />
+<Font Family="Franklin Gothic Demi" Name="FranklinGothic-Demi" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Demi	Regular" />
+<Font Family="Franklin Gothic Demi" Name="FranklinGothic-DemiItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Franklin Gothic Demi	Italic" />
+<Font Family="Franklin Gothic Demi Cond" Name="FranklinGothic-DemiCond" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Demi Cond	Regular" />
+<Font Family="Franklin Gothic Heavy" Name="FranklinGothic-Heavy" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Heavy	Regular" />
+<Font Family="Franklin Gothic Heavy" Name="FranklinGothic-HeavyItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Franklin Gothic Heavy	Italic" />
+<Font Family="Franklin Gothic Medium" Name="FranklinGothic-Medium" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Medium	Regular" />
+<Font Family="Franklin Gothic Medium" Name="FranklinGothic-MediumItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Franklin Gothic Medium	Italic" />
+<Font Family="Franklin Gothic Medium Cond" Name="FranklinGothic-MediumCond" Style="Regular" Status="INSTALLED" SubstitutedFont="Franklin Gothic Medium Cond	Regular" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BkXCp" Style="Book Extra Compressed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Extra Compressed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DmXCp" Style="Demi Extra Compressed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Extra Compressed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BkCp" Style="Book Compressed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Compressed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BkCpIt" Style="Book Compressed Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Compressed Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DmCp" Style="Demi Compressed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Compressed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DmCpIt" Style="Demi Compressed Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Compressed Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BkCd" Style="Book Condensed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Condensed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BkCdIt" Style="Book Condensed Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Condensed Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-MdCd" Style="Medium Condensed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Medium Condensed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-MdCdIt" Style="Medium Condensed Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Medium Condensed Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DmCd" Style="Demi Condensed" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Condensed" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DmCdIt" Style="Demi Condensed Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Condensed Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-Book" Style="Book" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-BookIt" Style="Book Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Book Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-Med" Style="Medium" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Medium" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-MedIt" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Medium Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-Demi" Style="Demi" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-DemiIt" Style="Demi Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Demi Italic" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-Hvy" Style="Heavy" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Heavy" />
+<Font Family="ITC Franklin Gothic Std" Name="ITCFranklinGothicStd-HvyIt" Style="Heavy Italic" Status="INSTALLED" SubstitutedFont="ITC Franklin Gothic Std	Heavy Italic" />
+<Font Family="Freestyle Script" Name="FreestyleScript-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Freestyle Script	Regular" />
+<Font Family="French Script MT" Name="FrenchScriptMT" Style="Regular" Status="INSTALLED" SubstitutedFont="French Script MT	Regular" />
+<Font Family="Frutiger 45 Light" Name="Frutiger-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger 45 Light	Regular" />
+<Font Family="Frutiger 46 Light" Name="Frutiger-LightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger 46 Light	Italic" />
+<Font Family="Frutiger 56" Name="Frutiger-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger 56	Italic" />
+<Font Family="Frutiger 57 Condensed" Name="Frutiger-Cn" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger 57 Condensed	Regular" />
+<Font Family="Frutiger 65" Name="Frutiger-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Frutiger 65	Bold" />
+<Font Family="Frutiger 66" Name="Frutiger-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Frutiger 66	Bold Italic" />
+<Font Family="Frutiger 67 Condensed" Name="Frutiger-BoldCn" Style="Bold" Status="INSTALLED" SubstitutedFont="Frutiger 67 Condensed	Bold" />
+<Font Family="Frutiger 75 Black" Name="Frutiger-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger 75 Black	Regular" />
+<Font Family="Frutiger 76 Black" Name="Frutiger-BlackItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger 76 Black	Italic" />
+<Font Family="Frutiger 77 Black Condensed" Name="Frutiger-BlackCn" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger 77 Black Condensed	Regular" />
+<Font Family="Frutiger LT Cyrillic 45 Light" Name="FrutigerLTCYR-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 45 Light	Regular" />
+<Font Family="Frutiger LT Cyrillic 46 Light" Name="FrutigerLTCYR-LightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 46 Light	Italic" />
+<Font Family="Frutiger LT Cyrillic 47 Light C" Name="FrutigerLTCYR-LightCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 47 Light C	Regular" />
+<Font Family="Frutiger LT Cyrillic 55" Name="FrutigerLTCYR-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 55	Roman" />
+<Font Family="Frutiger LT Cyrillic 56" Name="FrutigerLTCYR-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 56	Italic" />
+<Font Family="Frutiger LT Cyrillic 57 Condens" Name="FrutigerLTCYR-Condensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 57 Condens	Regular" />
+<Font Family="Frutiger LT Cyrillic 65" Name="FrutigerLTCYR-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 65	Bold" />
+<Font Family="Frutiger LT Cyrillic 66" Name="FrutigerLTCYR-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 66	Bold Italic" />
+<Font Family="Frutiger LT Cyrillic 67 Condens" Name="FrutigerLTCYR-BoldCondensed" Style="Bold" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 67 Condens	Bold" />
+<Font Family="Frutiger LT Cyrillic 75 Black" Name="FrutigerLTCYR-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 75 Black	Regular" />
+<Font Family="Frutiger LT Cyrillic 76 Black" Name="FrutigerLTCYR-BlackItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 76 Black	Italic" />
+<Font Family="Frutiger LT Cyrillic 77 Black C" Name="FrutigerLTCYR-BlackCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 77 Black C	Regular" />
+<Font Family="Frutiger LT Cyrillic 87 Extra B" Name="FrutigerLTCYR-ExtraBlackCond" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 87 Extra B	Regular" />
+<Font Family="Frutiger LT Cyrillic 95 Ultra B" Name="FrutigerLTCYR-UltraBlack" Style="Regular" Status="INSTALLED" SubstitutedFont="Frutiger LT Cyrillic 95 Ultra B	Regular" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-LightCn" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	47 Light Condensed" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Cn" Style="57 Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	57 Condensed" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-BoldCn" Style="67 Bold Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	67 Bold Condensed" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-BlackCn" Style="77 Black Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	77 Black Condensed" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-ExtraBlackCn" Style="87 Extra Black Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	87 Extra Black Condensed" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Light" Style="45 Light" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	45 Light" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-LightItalic" Style="46 Light Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	46 Light Italic" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Roman" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	55 Roman" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Italic" Style="56 Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	56 Italic" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Bold" Style="65 Bold" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	65 Bold" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-BoldItalic" Style="66 Bold Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	66 Bold Italic" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-Black" Style="75 Black" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	75 Black" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-BlackItalic" Style="76 Black Italic" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	76 Black Italic" />
+<Font Family="Frutiger LT Std" Name="FrutigerLTStd-UltraBlack" Style="95 Ultra Black" Status="INSTALLED" SubstitutedFont="Frutiger LT Std	95 Ultra Black" />
+<Font Family="Frutiger Next LT W1G" Name="FrutigerNextLTW1G-HeavyCn" Style="Heavy Condensed" Status="INSTALLED" SubstitutedFont="Frutiger Next LT W1G	Heavy Condensed" />
+<Font Family="Frutiger Next LT W1G" Name="FrutigerNextLTW1G-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Frutiger Next LT W1G	Light" />
+<Font Family="FrutigerNextLT" Name="FrutigerNextLT-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="FrutigerNextLT	Medium" />
+<Font Family="FrutigerNextLT" Name="FrutigerNextLT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="FrutigerNextLT	Bold" />
+<Font Family="FrutigerNextLT Black" Name="FrutigerNextLT-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT Black	Regular" />
+<Font Family="FrutigerNextLT BlackCn" Name="FrutigerNextLT-BlackCn" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT BlackCn	Regular" />
+<Font Family="FrutigerNextLT BlackIt" Name="FrutigerNextLT-BlackIt" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT BlackIt	Regular" />
+<Font Family="FrutigerNextLT Cn" Name="FrutigerNextLT-MediumCn" Style="Medium" Status="INSTALLED" SubstitutedFont="FrutigerNextLT Cn	Medium" />
+<Font Family="FrutigerNextLT Cn" Name="FrutigerNextLT-BoldCn" Style="Bold" Status="INSTALLED" SubstitutedFont="FrutigerNextLT Cn	Bold" />
+<Font Family="FrutigerNextLT Heavy" Name="FrutigerNextLT-Heavy" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT Heavy	Regular" />
+<Font Family="FrutigerNextLT HeavyCn" Name="FrutigerNextLT-HeavyCn" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT HeavyCn	Regular" />
+<Font Family="FrutigerNextLT HeavyIt" Name="FrutigerNextLT-HeavyIt" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT HeavyIt	Regular" />
+<Font Family="FrutigerNextLT It" Name="FrutigerNextLT-It" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT It	Regular" />
+<Font Family="FrutigerNextLT It" Name="FrutigerNextLT-BoldIt" Style="Bold" Status="INSTALLED" SubstitutedFont="FrutigerNextLT It	Bold" />
+<Font Family="FrutigerNextLT Light" Name="FrutigerNextLT-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT Light	Regular" />
+<Font Family="FrutigerNextLT LightCn" Name="FrutigerNextLT-LightCn" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT LightCn	Regular" />
+<Font Family="FrutigerNextLT LightIt" Name="FrutigerNextLT-LightIt" Style="Regular" Status="INSTALLED" SubstitutedFont="FrutigerNextLT LightIt	Regular" />
+<Font Family="FS Albert Pro" Name="FSAlbertPro" Style="Regular" Status="INSTALLED" SubstitutedFont="FS Albert Pro	Regular" />
+<Font Family="FS Albert Pro" Name="FSAlbertPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="FS Albert Pro	Bold" />
+<Font Family="FS Joey" Name="FSJoey-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="FS Joey	Medium" />
+<Font Family="FS Joey" Name="FSJoey-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="FS Joey	Bold" />
+<Font Family="Futura" Name="Futura-LightOblique" Style="LightOblique" Status="INSTALLED" SubstitutedFont="Futura	LightOblique" />
+<Font Family="Futura" Name="Futura-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Futura	Book" />
+<Font Family="Futura" Name="Futura-BookOblique" Style="BookOblique" Status="INSTALLED" SubstitutedFont="Futura	BookOblique" />
+<Font Family="Futura" Name="Futura" Style="Regular " Status="INSTALLED" SubstitutedFont="Futura	Regular " />
+<Font Family="Futura" Name="Futura-Oblique" Style="Medium Oblique" Status="INSTALLED" SubstitutedFont="Futura	Medium Oblique" />
+<Font Family="Futura" Name="Futura-BoldOblique" Style="BoldOblique" Status="INSTALLED" SubstitutedFont="Futura	BoldOblique" />
+<Font Family="Futura" Name="Futura-ExtraBold" Style="ExtraBold" Status="INSTALLED" SubstitutedFont="Futura	ExtraBold" />
+<Font Family="Futura" Name="Futura-Heavy" Style="Heavy" Status="INSTALLED" SubstitutedFont="Futura	Heavy" />
+<Font Family="Futura" Name="Futura-HeavyOblique" Style="Heavy Oblique" Status="INSTALLED" SubstitutedFont="Futura	Heavy Oblique" />
+<Font Family="Futura Bk BT" Name="FuturaBT-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Futura Bk BT	Book" />
+<Font Family="Futura Bk BT" Name="FuturaBT-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Futura Bk BT	Book Italic" />
+<Font Family="Futura BT" Name="FuturaBT-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Futura BT	Light" />
+<Font Family="Futura BT" Name="FuturaBT-Heavy" Style="Heavy" Status="INSTALLED" SubstitutedFont="Futura BT	Heavy" />
+<Font Family="Futura BT" Name="FuturaBT-HeavyItalic" Style="Heavy Italic" Status="INSTALLED" SubstitutedFont="Futura BT	Heavy Italic" />
+<Font Family="Futura BT" Name="FuturaBT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Futura BT	Bold" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedLight" Style="Light Condensed" Status="INSTALLED" SubstitutedFont="Futura Std	Light Condensed" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedLightObl" Style="Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Light Condensed Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Condensed" Style="Medium Condensed" Status="INSTALLED" SubstitutedFont="Futura Std	Medium Condensed" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedOblique" Style="Medium Condensed Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Medium Condensed Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedBold" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Futura Std	Bold Condensed" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedBoldObl" Style="Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Bold Condensed Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-CondensedExtraBd" Style="Extra Bold Condensed" Status="INSTALLED" SubstitutedFont="Futura Std	Extra Bold Condensed" />
+<Font Family="Futura Std" Name="FuturaStd-CondExtraBoldObl" Style="Extra Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Extra Bold Condensed Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Futura Std	Light" />
+<Font Family="Futura Std" Name="FuturaStd-LightOblique" Style="Light Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Light Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Futura Std	Book" />
+<Font Family="Futura Std" Name="FuturaStd-BookOblique" Style="Book Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Book Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Futura Std	Medium" />
+<Font Family="Futura Std" Name="FuturaStd-MediumOblique" Style="Medium Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Medium Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Heavy" Style="Heavy" Status="INSTALLED" SubstitutedFont="Futura Std	Heavy" />
+<Font Family="Futura Std" Name="FuturaStd-HeavyOblique" Style="Heavy Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Heavy Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Futura Std	Bold" />
+<Font Family="Futura Std" Name="FuturaStd-BoldOblique" Style="Bold Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Bold Oblique" />
+<Font Family="Futura Std" Name="FuturaStd-ExtraBold" Style="Extra Bold" Status="INSTALLED" SubstitutedFont="Futura Std	Extra Bold" />
+<Font Family="Futura Std" Name="FuturaStd-ExtraBoldOblique" Style="Extra Bold Oblique" Status="INSTALLED" SubstitutedFont="Futura Std	Extra Bold Oblique" />
+<Font Family="FuturaEFTUOP-XBold" Name="FuturaEFTUOP-XBold" Style="Regular" Status="INSTALLED" SubstitutedFont="FuturaEFTUOP-XBold	Regular" />
+<Font Family="Gabriola" Name="Gabriola" Style="Regular" Status="INSTALLED" SubstitutedFont="Gabriola	Regular" />
+<Font Family="ITC Galliard" Name="Galliard-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="ITC Galliard	Roman" />
+<Font Family="ITC Galliard" Name="Galliard-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="ITC Galliard	Italic" />
+<Font Family="ITC Galliard" Name="Galliard-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="ITC Galliard	Bold Italic" />
+<Font Family="ITC Galliard Black" Name="Galliard-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="ITC Galliard Black	Regular" />
+<Font Family="ITC Galliard Black" Name="Galliard-BlackItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="ITC Galliard Black	Italic" />
+<Font Family="ITC Galliard BT" Name="GalliardITCbyBT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="ITC Galliard BT	Bold" />
+<Font Family="ITC Galliard Ultra" Name="Galliard-Ultra" Style="Regular" Status="INSTALLED" SubstitutedFont="ITC Galliard Ultra	Regular" />
+<Font Family="ITC Galliard Ultra" Name="Galliard-UltraItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="ITC Galliard Ultra	Italic" />
+<Font Family="Garamond" Name="Garamond" Style="Regular" Status="INSTALLED" SubstitutedFont="Garamond	Regular" />
+<Font Family="Garamond" Name="Garamond-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Garamond	Italic" />
+<Font Family="Garamond" Name="Garamond-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Garamond	Bold" />
+<Font Family="Adobe Garamond Pro" Name="AGaramondPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Adobe Garamond Pro	Regular" />
+<Font Family="Adobe Garamond Pro" Name="AGaramondPro-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Adobe Garamond Pro	Italic" />
+<Font Family="Adobe Garamond Pro" Name="AGaramondPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Adobe Garamond Pro	Bold" />
+<Font Family="Adobe Garamond Pro" Name="AGaramondPro-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Adobe Garamond Pro	Bold Italic" />
+<Font Family="Gautami" Name="Gautami" Style="Regular" Status="INSTALLED" SubstitutedFont="Gautami	Regular" />
+<Font Family="Gautami" Name="Gautami-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gautami	Bold" />
+<Font Family="Georgia" Name="Georgia" Style="Regular" Status="INSTALLED" SubstitutedFont="Georgia	Regular" />
+<Font Family="Georgia" Name="Georgia-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Georgia	Italic" />
+<Font Family="Georgia" Name="Georgia-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Georgia	Bold" />
+<Font Family="Georgia" Name="Georgia-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Georgia	Bold Italic" />
+<Font Family="GeoSlab703 Lt BT" Name="GeometricSlab703BT-Light" Style="Light" Status="INSTALLED" SubstitutedFont="GeoSlab703 Lt BT	Light" />
+<Font Family="GeoSlab703 Lt BT" Name="GeometricSlab703BT-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="GeoSlab703 Lt BT	Light Italic" />
+<Font Family="GeoSlab703 Md BT" Name="GeometricSlab703BT-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="GeoSlab703 Md BT	Medium" />
+<Font Family="GeoSlab703 Md BT" Name="GeometricSlab703BT-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="GeoSlab703 Md BT	Medium Italic" />
+<Font Family="GeoSlab703 Md BT" Name="GeometricSlab703BT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="GeoSlab703 Md BT	Bold" />
+<Font Family="GeoSlab703 Md BT" Name="GeometricSlab703BT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="GeoSlab703 Md BT	Bold Italic" />
+<Font Family="GeoSlab703 XBd BT" Name="GeometricSlab703BT-XtraBold" Style="Extra Bold" Status="INSTALLED" SubstitutedFont="GeoSlab703 XBd BT	Extra Bold" />
+<Font Family="GeoSlab703 XBdIt BT" Name="GeometricSlab703BT-XtraBoldItal" Style="Extra Bold Italic" Status="INSTALLED" SubstitutedFont="GeoSlab703 XBdIt BT	Extra Bold Italic" />
+<Font Family="Giddyup Std" Name="GiddyupStd" Style="Regular" Status="INSTALLED" SubstitutedFont="Giddyup Std	Regular" />
+<Font Family="Gigi" Name="Gigi-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Gigi	Regular" />
+<Font Family="Gill Sans" Name="GillSans-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans	Regular" />
+<Font Family="Gill Sans" Name="GillSans-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gill Sans	Italic" />
+<Font Family="Gill Sans" Name="GillSans-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gill Sans	Bold" />
+<Font Family="Gill Sans" Name="GillSans-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Gill Sans	Bold Italic" />
+<Font Family="Gill Sans" Name="GillSans-ExtraBold" Style="Extra Bold" Status="INSTALLED" SubstitutedFont="Gill Sans	Extra Bold" />
+<Font Family="Gill Sans MT" Name="GillSansMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans MT	Regular" />
+<Font Family="Gill Sans MT" Name="GillSansMT-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gill Sans MT	Italic" />
+<Font Family="Gill Sans MT" Name="GillSansMT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gill Sans MT	Bold" />
+<Font Family="Gill Sans MT" Name="GillSansMT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Gill Sans MT	Bold Italic" />
+<Font Family="Gill Sans MT Condensed" Name="GillSansMT-Condensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans MT Condensed	Regular" />
+<Font Family="Gill Sans MT Ext Condensed Bold" Name="GillSansMT-ExtraCondensedBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans MT Ext Condensed Bold	Regular" />
+<Font Family="Gill Sans MT Pro" Name="GillSansMTPro-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Gill Sans MT Pro	Book" />
+<Font Family="Gill Sans Std" Name="GillSansStd" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans Std	Regular" />
+<Font Family="Gill Sans Std" Name="GillSansStd-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gill Sans Std	Italic" />
+<Font Family="Gill Sans Std" Name="GillSansStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gill Sans Std	Bold" />
+<Font Family="Gill Sans Std" Name="GillSansStd-ExtraBold" Style="Extra Bold" Status="INSTALLED" SubstitutedFont="Gill Sans Std	Extra Bold" />
+<Font Family="Gill Sans Ultra Bold" Name="GillSans-UltraBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans Ultra Bold	Regular" />
+<Font Family="Gill Sans Ultra Bold Condensed" Name="GillSans-UltraBoldCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Gill Sans Ultra Bold Condensed	Regular" />
+<Font Family="Gloucester MT Extra Condensed" Name="GloucesterMT-ExtraCondensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Gloucester MT Extra Condensed	Regular" />
+<Font Family="Gotham" Name="Gotham-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Gotham	Light" />
+<Font Family="Gotham" Name="Gotham-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Gotham	Light Italic" />
+<Font Family="Gotham" Name="Gotham-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Gotham	Book" />
+<Font Family="Gotham" Name="Gotham-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Gotham	Book Italic" />
+<Font Family="Gotham" Name="Gotham-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Gotham	Medium" />
+<Font Family="Gotham" Name="Gotham-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Gotham	Medium Italic" />
+<Font Family="Gotham" Name="Gotham-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gotham	Bold" />
+<Font Family="Gotham" Name="Gotham-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Gotham	Bold Italic" />
+<Font Family="Gotham" Name="Gotham-Ultra" Style="Ultra" Status="INSTALLED" SubstitutedFont="Gotham	Ultra" />
+<Font Family="Gotham Black" Name="Gotham-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Black	Regular" />
+<Font Family="Gotham Black" Name="Gotham-BlackItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham Black	Italic" />
+<Font Family="Gotham Condensed" Name="GothamCondensed-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Gotham Condensed	Light" />
+<Font Family="Gotham Condensed" Name="GothamCondensed-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Gotham Condensed	Book" />
+<Font Family="Gotham Condensed" Name="GothamCondensed-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Gotham Condensed	Medium" />
+<Font Family="Gotham Extra Light" Name="Gotham-ExtraLight" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Extra Light	Regular" />
+<Font Family="Gotham Extra Light" Name="Gotham-ExtraLightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham Extra Light	Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-Thin" Style="Thin" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Thin" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-ThinItalic" Style="Thin Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Thin Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-XLight" Style="Extra Light" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Extra Light" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-XLightItalic" Style="Extra Light Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Extra Light Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Light Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-BlackItalic" Style="Black Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Black Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-Ultra" Style="Ultra" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Ultra" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-UltraItalic" Style="Ultra Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Ultra Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Medium" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Medium Italic" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Bold" />
+<Font Family="Gotham Narrow" Name="GothamNarrow-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow	Bold Italic" />
+<Font Family="Gotham Narrow Black" Name="GothamNarrow-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Narrow Black	Regular" />
+<Font Family="Gotham Narrow Book" Name="GothamNarrow-Book" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Narrow Book	Regular" />
+<Font Family="Gotham Narrow Book" Name="GothamNarrow-BookItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham Narrow Book	Italic" />
+<Font Family="Gotham Narrow Light" Name="GothamNarrow-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Narrow Light	Regular" />
+<Font Family="Gotham Thin" Name="Gotham-Thin" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham Thin	Regular" />
+<Font Family="Gotham Thin" Name="Gotham-ThinItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham Thin	Italic" />
+<Font Family="Gotham Ultra" Name="Gotham-UltraItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham Ultra	Italic" />
+<Font Family="Gotham XLight" Name="Gotham-XLight" Style="Regular" Status="INSTALLED" SubstitutedFont="Gotham XLight	Regular" />
+<Font Family="Gotham XLight" Name="Gotham-XLightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Gotham XLight	Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Thin" Style="Thin" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Thin" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-ThinItalic" Style="Thin Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Thin Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-XLight" Style="Extra Light" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Extra Light" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-XLightItalic" Style="Extra Light Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Extra Light Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Light" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Light Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Book Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Medium" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Medium Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Bold" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Bold Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Black" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-BlackItalic" Style="Black Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Black Italic" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-Ultra" Style="Ultra" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Ultra" />
+<Font Family="Gotham XNarrow" Name="GothamXNarrow-UltraItalic" Style="Ultra Italic" Status="INSTALLED" SubstitutedFont="Gotham XNarrow	Ultra Italic" />
+<Font Family="GothamBlack" Name="GothamBlack" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamBlack	Regular" />
+<Font Family="GothamBlack" Name="GothamBlack-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamBlack	Italic" />
+<Font Family="GothamBold" Name="GothamBold" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamBold	Regular" />
+<Font Family="GothamBold" Name="GothamBold-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamBold	Italic" />
+<Font Family="GothamBook" Name="GothamBook" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamBook	Regular" />
+<Font Family="GothamBook" Name="GothamBook-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamBook	Italic" />
+<Font Family="GothamExLight" Name="GothamExLight" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamExLight	Regular" />
+<Font Family="GothamExLight" Name="GothamExLight-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamExLight	Italic" />
+<Font Family="GothamLight" Name="GothamLight" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamLight	Regular" />
+<Font Family="GothamLight" Name="GothamLight-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamLight	Italic" />
+<Font Family="GothamMedium" Name="GothamMedium" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamMedium	Regular" />
+<Font Family="GothamMedium" Name="GothamMedium-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamMedium	Italic" />
+<Font Family="GothamThin" Name="GothamThin" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamThin	Regular" />
+<Font Family="GothamThin" Name="GothamThin-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamThin	Italic" />
+<Font Family="GothamUltra" Name="GothamUltra" Style="Regular" Status="INSTALLED" SubstitutedFont="GothamUltra	Regular" />
+<Font Family="GothamUltra" Name="GothamUltra-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="GothamUltra	Italic" />
+<Font Family="Goudy Old Style" Name="GoudyOldStyleT-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Goudy Old Style	Italic" />
+<Font Family="Goudy Old Style" Name="GoudyOldStyleT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Goudy Old Style	Regular" />
+<Font Family="Goudy Old Style" Name="GoudyOldStyleT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Goudy Old Style	Bold" />
+<Font Family="Goudy Stout" Name="GoudyStout" Style="Regular" Status="INSTALLED" SubstitutedFont="Goudy Stout	Regular" />
+<Font Family="Haettenschweiler" Name="Haettenschweiler" Style="Regular" Status="INSTALLED" SubstitutedFont="Haettenschweiler	Regular" />
+<Font Family="Handsome Pro" Name="HandsomePro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Handsome Pro	Bold" />
+<Font Family="Harlow Solid Italic" Name="HarlowSolid" Style="Italic" Status="INSTALLED" SubstitutedFont="Harlow Solid Italic	Italic" />
+<Font Family="Harrington" Name="Harrington" Style="Regular" Status="INSTALLED" SubstitutedFont="Harrington	Regular" />
+<Font Family="Helvetica (T1)" Name="Helvetica-Condensed-Light" Style="Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica (T1)	Light Condensed" />
+<Font Family="Helvetica (T1)" Name="Helvetica-Fraction" Style="Fractions" Status="INSTALLED" SubstitutedFont="Helvetica (T1)	Fractions" />
+<Font Family="Helvetica (T1)" Name="Helvetica-FractionBold" Style="Bold Fractions" Status="INSTALLED" SubstitutedFont="Helvetica (T1)	Bold Fractions" />
+<Font Family="Helvetica (TT)" Name="Helvetica" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica (TT)	Regular" />
+<Font Family="Helvetica Condensed" Name="Helvetica-Condensed" Style="Medium" Status="INSTALLED" SubstitutedFont="Helvetica Condensed	Medium" />
+<Font Family="Helvetica Condensed" Name="Helvetica-Condensed-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica Condensed	Bold" />
+<Font Family="Helvetica Greek" Name="HelveticaGreek-Upright" Style="Upright" Status="INSTALLED" SubstitutedFont="Helvetica Greek	Upright" />
+<Font Family="Helvetica Greek" Name="HelveticaGreek-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica Greek	Bold" />
+<Font Family="Helvetica Inserat LT Std" Name="HelveticaInseratLTStd-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="Helvetica Inserat LT Std	Roman" />
+<Font Family="Helvetica LT" Name="HelveticaLT-Narrow-Bold" Style="Narrow Bold" Status="INSTALLED" SubstitutedFont="Helvetica LT	Narrow Bold" />
+<Font Family="Helvetica LT" Name="HelveticaLT-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Helvetica LT	Light" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-ExtraComp" Style="Extra Compressed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Extra Compressed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-UltraComp" Style="Ultra Compressed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Ultra Compressed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Comp" Style="Compressed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Compressed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-LightCond" Style="Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Light Condensed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-LightCondObl" Style="Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Light Condensed Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Cond" Style="Condensed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Condensed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-CondObl" Style="Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Condensed Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BoldCond" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Bold Condensed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BoldCondObl" Style="Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Bold Condensed Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BlkCond" Style="Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Black Condensed" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BlkCondObl" Style="Black Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Black Condensed Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Light" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-LightObl" Style="Light Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Light Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Fractions" Style="Fractions" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Fractions" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Roman" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Obl" Style="Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Bold" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-FractionsBd" Style="Fractions Bold" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Fractions Bold" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BoldObl" Style="Bold Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Bold Oblique" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-Blk" Style="Black" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Black" />
+<Font Family="Helvetica LT Std" Name="HelveticaLTStd-BlkObl" Style="Black Oblique" Status="INSTALLED" SubstitutedFont="Helvetica LT Std	Black Oblique" />
+<Font Family="Helvetica Neue (OTF)" Name="HelveticaNeue-BoldCond" Style="77 Bold Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue (OTF)	77 Bold Condensed" />
+<Font Family="Helvetica Neue (OTF)" Name="HelveticaNeue-Thin" Style="35 Thin" Status="INSTALLED" SubstitutedFont="Helvetica Neue (OTF)	35 Thin" />
+<Font Family="Helvetica Neue (OTF)" Name="HelveticaNeue-MediumItalic" Style="66 Medium Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue (OTF)	66 Medium Italic" />
+<Font Family="Helvetica Neue (OTF)" Name="HelveticaNeue-BoldCondObl" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica Neue (OTF)	Regular" />
+<Font Family="Helvetica Neue (OTF)" Name="HelveticaNeue-Black" Style="95 Black" Status="INSTALLED" SubstitutedFont="Helvetica Neue (OTF)	95 Black" />
+<Font Family="Helvetica Neue (TT)" Name="HelveticaNeue" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica Neue (TT)	Regular" />
+<Font Family="Helvetica Neue (TT)" Name="HelveticaNeue-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue (TT)	Italic" />
+<Font Family="Helvetica Neue (TT)" Name="HelveticaNeue-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Helvetica Neue (TT)	Medium" />
+<Font Family="Helvetica Neue (TT)" Name="HelveticaNeue-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica Neue (TT)	Bold" />
+<Font Family="Helvetica Neue (TT)" Name="HelveticaNeue-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue (TT)	Bold Italic" />
+<Font Family="Helvetica Neue Condensed" Name="HelveticaNeue-CondensedBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica Neue Condensed	Bold" />
+<Font Family="Helvetica Neue Condensed Black" Name="HelveticaNeue-CondensedBlack" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica Neue Condensed Black	Regular" />
+<Font Family="Helvetica Neue Light" Name="HelveticaNeue-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica Neue Light	Regular" />
+<Font Family="Helvetica Neue Light" Name="HelveticaNeue-LightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue Light	Italic" />
+<Font Family="Helvetica Neue LT" Name="HelveticaNeueLT-ExtBlackCond" Style="LT 107 Extra Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT	LT 107 Extra Black Condensed" />
+<Font Family="Helvetica Neue LT" Name="HelveticaNeueLT-UltraLigExt" Style="LT 23 Ultra Light Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT	LT 23 Ultra Light Extended" />
+<Font Family="Helvetica Neue LT Com" Name="HelveticaNeueLTCom-UltLtCn" Style="27 Ultra Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Com	27 Ultra Light Condensed" />
+<Font Family="Helvetica Neue LT Com" Name="HelveticaNeueLTCom-LtCn" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Com	47 Light Condensed" />
+<Font Family="Helvetica Neue LT Com" Name="HelveticaNeueLTCom-MdCn" Style="67 Medium Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Com	67 Medium Condensed" />
+<Font Family="Helvetica Neue LT Com" Name="HelveticaNeueLTCom-Hv" Style="85 Heavy" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Com	85 Heavy" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ThEx" Style="33 Thin Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	33 Thin Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Th" Style="35 Thin" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	35 Thin" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ThCn" Style="37 Thin Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	37 Thin Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ThExO" Style="33 Thin Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	33 Thin Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ThIt" Style="36 Thin Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	36 Thin Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ThCnO" Style="37 Thin Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	37 Thin Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLtEx" Style="23 Ultra Light Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	23 Ultra Light Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLt" Style="25 Ultra Light" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	25 Ultra Light" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLtCn" Style="27 Ultra Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	27 Ultra Light Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLtExO" Style="23 Ultra Light Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	23 Ultra Light Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLtIt" Style="26 Ultra Light Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	26 Ultra Light Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-UltLtCnO" Style="27 Ultra Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	27 Ultra Light Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-LtEx" Style="43 Light Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	43 Light Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Lt" Style="45 Light" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	45 Light" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-LtCn" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	47 Light Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-LtExO" Style="43 Light Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	43 Light Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-LtIt" Style="46 Light Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	46 Light Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-LtCnO" Style="47 Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	47 Light Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Ex" Style="53 Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	53 Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Roman" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	55 Roman" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Cn" Style="57 Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	57 Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-ExO" Style="53 Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	53 Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-It" Style="56 Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	56 Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-CnO" Style="57 Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	57 Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-MdEx" Style="63 Medium Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	63 Medium Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Md" Style="65 Medium" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	65 Medium" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-MdCn" Style="67 Medium Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	67 Medium Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-MdExO" Style="63 Medium Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	63 Medium Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-MdIt" Style="66 Medium Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	66 Medium Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-MdCnO" Style="67 Medium Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	67 Medium Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdEx" Style="73 Bold Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	73 Bold Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Bd" Style="75 Bold" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	75 Bold" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdOu" Style="75 Bold Outline" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	75 Bold Outline" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdCn" Style="77 Bold Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	77 Bold Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdExO" Style="73 Bold Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	73 Bold Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdIt" Style="76 Bold Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	76 Bold Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BdCnO" Style="77 Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	77 Bold Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-HvEx" Style="83 Heavy Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	83 Heavy Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Hv" Style="85 Heavy" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	85 Heavy" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-HvCn" Style="87 Heavy Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	87 Heavy Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-HvExO" Style="83 Heavy Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	83 Heavy Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-HvIt" Style="86 Heavy Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	86 Heavy Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-HvCnO" Style="87 Heavy Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	87 Heavy Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BlkEx" Style="93 Black Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	93 Black Extended" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-Blk" Style="95 Black" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	95 Black" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BlkCn" Style="97 Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	97 Black Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BlkExO" Style="93 Black Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	93 Black Extended Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BlkIt" Style="96 Black Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	96 Black Italic" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-BlkCnO" Style="97 Black Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	97 Black Condensed Oblique" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-XBlkCn" Style="107 Extra Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	107 Extra Black Condensed" />
+<Font Family="Helvetica Neue LT Pro" Name="HelveticaNeueLTPro-XBlkCnO" Style="107 Extra Black Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Pro	107 Extra Black Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ThCn" Style="37 Thin Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	37 Thin Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ThCnO" Style="37 Thin Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	37 Thin Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-UltLtCn" Style="27 Ultra Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	27 Ultra Light Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-UltLtCnO" Style="27 Ultra Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	27 Ultra Light Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-LtCn" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	47 Light Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-LtCnO" Style="47 Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	47 Light Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BdCn" Style="77 Bold Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	77 Bold Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BdCnO" Style="77 Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	77 Bold Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-HvCn" Style="87 Heavy Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	87 Heavy Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-HvCnO" Style="87 Heavy Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	87 Heavy Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BlkCn" Style="97 Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	97 Black Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BlkCnO" Style="97 Black Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	97 Black Condensed Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-XBlkCn" Style="107 Extra Black Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	107 Extra Black Condensed" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Th" Style="35 Thin" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	35 Thin" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ThIt" Style="36 Thin Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	36 Thin Italic" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-UltLt" Style="25 Ultra Light" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	25 Ultra Light" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Lt" Style="45 Light" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	45 Light" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Roman" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	55 Roman" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Bd" Style="75 Bold" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	75 Bold" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BdOu" Style="75 Bold Outline" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	75 Bold Outline" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Hv" Style="85 Heavy" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	85 Heavy" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Blk" Style="95 Black" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	95 Black" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ThEx" Style="33 Thin Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	33 Thin Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ThExO" Style="33 Thin Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	33 Thin Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-UltLtEx" Style="23 Ultra Light Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	23 Ultra Light Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-UltLtExO" Style="23 Ultra Light Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	23 Ultra Light Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-LtEx" Style="43 Light Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	43 Light Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-LtExO" Style="43 Light Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	43 Light Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-Ex" Style="53 Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	53 Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-ExO" Style="53 Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	53 Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BdEx" Style="73 Bold Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	73 Bold Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BdExO" Style="73 Bold Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	73 Bold Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-HvEx" Style="83 Heavy Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	83 Heavy Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-HvExO" Style="83 Heavy Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	83 Heavy Extended Oblique" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BlkEx" Style="93 Black Extended" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	93 Black Extended" />
+<Font Family="Helvetica Neue LT Std" Name="HelveticaNeueLTStd-BlkExO" Style="93 Black Extended Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Neue LT Std	93 Black Extended Oblique" />
+<Font Family="Helvetica Neue UltraLight" Name="HelveticaNeue-UltraLight" Style="Regular" Status="INSTALLED" SubstitutedFont="Helvetica Neue UltraLight	Regular" />
+<Font Family="Helvetica Neue UltraLight" Name="HelveticaNeue-UltraLightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="Helvetica Neue UltraLight	Italic" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-BdCn" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Bold Condensed" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-BdCnO" Style="Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Bold Condensed Oblique" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-Bd" Style="Bold" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Bold" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-BdO" Style="Bold Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Bold Oblique" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Black" />
+<Font Family="Helvetica Rounded LT Std" Name="HelveticaRoundedLTStd-BlkO" Style="Black Oblique" Status="INSTALLED" SubstitutedFont="Helvetica Rounded LT Std	Black Oblique" />
+<Font Family="High Tower Text" Name="HighTowerText-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="High Tower Text	Regular" />
+<Font Family="High Tower Text" Name="HighTowerText-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="High Tower Text	Italic" />
+<Font Family="Hobo Std" Name="HoboStd" Style="Medium" Status="INSTALLED" SubstitutedFont="Hobo Std	Medium" />
+<Font Family="Impact" Name="Impact" Style="Regular" Status="INSTALLED" SubstitutedFont="Impact	Regular" />
+<Font Family="Imprint MT Shadow" Name="ImprintMT-Shadow" Style="Regular" Status="INSTALLED" SubstitutedFont="Imprint MT Shadow	Regular" />
+<Font Family="Informal Roman" Name="InformalRoman-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Informal Roman	Regular" />
+<Font Family="Iskoola Pota" Name="IskoolaPota" Style="Regular" Status="INSTALLED" SubstitutedFont="Iskoola Pota	Regular" />
+<Font Family="Iskoola Pota" Name="IskoolaPota-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Iskoola Pota	Bold" />
+<Font Family="Jaguar" Name="Jaguar" Style="Regular" Status="INSTALLED" SubstitutedFont="Jaguar	Regular" />
+<Font Family="Jaguar" Name="Jaguar-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Jaguar	Bold" />
+<Font Family="Jokerman" Name="Jokerman-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Jokerman	Regular" />
+<Font Family="Juice ITC" Name="JuiceITC-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Juice ITC	Regular" />
+<Font Family="Kalinga" Name="Kalinga" Style="Regular" Status="INSTALLED" SubstitutedFont="Kalinga	Regular" />
+<Font Family="Kalinga" Name="Kalinga-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Kalinga	Bold" />
+<Font Family="Kartika" Name="Kartika" Style="Regular" Status="INSTALLED" SubstitutedFont="Kartika	Regular" />
+<Font Family="Kartika" Name="Kartika-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Kartika	Bold" />
+<Font Family="Kedage" Name="KedageNormal" Style="Normal" Status="INSTALLED" SubstitutedFont="Kedage	Normal" />
+<Font Family="Kedage" Name="KedageNormalItalic" Style="NormalItalic" Status="INSTALLED" SubstitutedFont="Kedage	NormalItalic" />
+<Font Family="Kedage" Name="KedageBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Kedage	Bold" />
+<Font Family="Kedage" Name="KedageBoldItalic" Style="BoldItalic" Status="INSTALLED" SubstitutedFont="Kedage	BoldItalic" />
+<Font Family="Khmer UI" Name="KhmerUI" Style="Regular" Status="INSTALLED" SubstitutedFont="Khmer UI	Regular" />
+<Font Family="Khmer UI" Name="KhmerUI-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Khmer UI	Bold" />
+<Font Family="KN-TTNandiEN" Name="KN-TTNandiEN-Normal" Style="Normal" Status="INSTALLED" SubstitutedFont="KN-TTNandiEN	Normal" />
+<Font Family="KN-TTUma" Name="KN-TTUma-Normal" Style="Normal" Status="INSTALLED" SubstitutedFont="KN-TTUma	Normal" />
+<Font Family="Kokila" Name="Kokila" Style="Regular" Status="INSTALLED" SubstitutedFont="Kokila	Regular" />
+<Font Family="Kokila" Name="Kokila-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Kokila	Italic" />
+<Font Family="Kokila" Name="Kokila-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Kokila	Bold" />
+<Font Family="Kokila" Name="Kokila-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Kokila	Bold Italic" />
+<Font Family="Kristen ITC" Name="KristenITC-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Kristen ITC	Regular" />
+<Font Family="Kunstler Script" Name="KunstlerScript" Style="Regular" Status="INSTALLED" SubstitutedFont="Kunstler Script	Regular" />
+<Font Family="Lane - Narrow" Name="Lane-Narrow" Style="Regular" Status="INSTALLED" SubstitutedFont="Lane - Narrow	Regular" />
+<Font Family="Lao UI" Name="LaoUI" Style="Regular" Status="INSTALLED" SubstitutedFont="Lao UI	Regular" />
+<Font Family="Lao UI" Name="LaoUI-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Lao UI	Bold" />
+<Font Family="Latha" Name="Latha" Style="Regular" Status="INSTALLED" SubstitutedFont="Latha	Regular" />
+<Font Family="Latha" Name="Latha-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Latha	Bold" />
+<Font Family="Letter Gothic Std" Name="LetterGothicStd" Style="Medium" Status="INSTALLED" SubstitutedFont="Letter Gothic Std	Medium" />
+<Font Family="Letter Gothic Std" Name="LetterGothicStd-Slanted" Style="Slanted" Status="INSTALLED" SubstitutedFont="Letter Gothic Std	Slanted" />
+<Font Family="Letter Gothic Std" Name="LetterGothicStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Letter Gothic Std	Bold" />
+<Font Family="Letter Gothic Std" Name="LetterGothicStd-BoldSlanted" Style="Bold Slanted" Status="INSTALLED" SubstitutedFont="Letter Gothic Std	Bold Slanted" />
+<Font Family="LeviReBrushed" Name="LeviReBrushed" Style="Regular" Status="INSTALLED" SubstitutedFont="LeviReBrushed	Regular" />
+<Font Family="Lithos Pro" Name="LithosPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Lithos Pro	Regular" />
+<Font Family="Lithos Pro" Name="LithosPro-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Lithos Pro	Black" />
+<Font Family="Lucida Bright" Name="LucidaBright" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Bright	Regular" />
+<Font Family="Lucida Bright" Name="LucidaBright-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Lucida Bright	Italic" />
+<Font Family="Lucida Bright" Name="LucidaBright-Demi" Style="Demibold" Status="INSTALLED" SubstitutedFont="Lucida Bright	Demibold" />
+<Font Family="Lucida Bright" Name="LucidaBright-DemiItalic" Style="Demibold Italic" Status="INSTALLED" SubstitutedFont="Lucida Bright	Demibold Italic" />
+<Font Family="Lucida Calligraphy" Name="LucidaCalligraphy-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Lucida Calligraphy	Italic" />
+<Font Family="Lucida Console" Name="LucidaConsole" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Console	Regular" />
+<Font Family="Lucida Fax" Name="LucidaFax" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Fax	Regular" />
+<Font Family="Lucida Fax" Name="LucidaFax-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Lucida Fax	Italic" />
+<Font Family="Lucida Fax" Name="LucidaFax-Demi" Style="Demibold" Status="INSTALLED" SubstitutedFont="Lucida Fax	Demibold" />
+<Font Family="Lucida Fax" Name="LucidaFax-DemiItalic" Style="Demibold Italic" Status="INSTALLED" SubstitutedFont="Lucida Fax	Demibold Italic" />
+<Font Family="Lucida Handwriting" Name="LucidaHandwriting-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Lucida Handwriting	Italic" />
+<Font Family="Lucida Sans" Name="LucidaSans" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Sans	Regular" />
+<Font Family="Lucida Sans" Name="LucidaSans-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Lucida Sans	Italic" />
+<Font Family="Lucida Sans" Name="LucidaSans-Demi" Style="Demibold Roman" Status="INSTALLED" SubstitutedFont="Lucida Sans	Demibold Roman" />
+<Font Family="Lucida Sans" Name="LucidaSans-DemiItalic" Style="Demibold Italic" Status="INSTALLED" SubstitutedFont="Lucida Sans	Demibold Italic" />
+<Font Family="Lucida Sans Typewriter" Name="LucidaSans-Typewriter" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Sans Typewriter	Regular" />
+<Font Family="Lucida Sans Typewriter" Name="LucidaSans-TypewriterOblique" Style="Oblique" Status="INSTALLED" SubstitutedFont="Lucida Sans Typewriter	Oblique" />
+<Font Family="Lucida Sans Typewriter" Name="LucidaSans-TypewriterBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Lucida Sans Typewriter	Bold" />
+<Font Family="Lucida Sans Typewriter" Name="LucidaSans-TypewriterBoldOblique" Style="Bold Oblique" Status="INSTALLED" SubstitutedFont="Lucida Sans Typewriter	Bold Oblique" />
+<Font Family="Lucida Sans Unicode" Name="LucidaSansUnicode" Style="Regular" Status="INSTALLED" SubstitutedFont="Lucida Sans Unicode	Regular" />
+<Font Family="Magneto" Name="Magneto-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Magneto	Bold" />
+<Font Family="Maiandra GD" Name="MaiandraGD-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Maiandra GD	Regular" />
+<Font Family="Mallige" Name="MalligeNormal" Style="Normal" Status="INSTALLED" SubstitutedFont="Mallige	Normal" />
+<Font Family="Mallige" Name="MalligeNormalItalic" Style="NormalItalic" Status="INSTALLED" SubstitutedFont="Mallige	NormalItalic" />
+<Font Family="Mallige" Name="MalligeBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Mallige	Bold" />
+<Font Family="Mallige" Name="MalligeBoldItalic" Style="BoldItalic" Status="INSTALLED" SubstitutedFont="Mallige	BoldItalic" />
+<Font Family="Mangal" Name="Mangal" Style="Regular" Status="INSTALLED" SubstitutedFont="Mangal	Regular" />
+<Font Family="Mangal" Name="Mangal-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Mangal	Bold" />
+<Font Family="Marlett" Name="Marlett" Style="Regular" Status="INSTALLED" SubstitutedFont="Marlett	Regular" />
+<Font Family="Matura MT Script Capitals" Name="MaturaMTScriptCapitals" Style="Regular" Status="INSTALLED" SubstitutedFont="Matura MT Script Capitals	Regular" />
+<Font Family="Mesquite Std" Name="MesquiteStd" Style="Medium" Status="INSTALLED" SubstitutedFont="Mesquite Std	Medium" />
+<Font Family="Microsoft Himalaya" Name="MicrosoftHimalaya" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft Himalaya	Regular" />
+<Font Family="Microsoft New Tai Lue" Name="MicrosoftNewTaiLue" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft New Tai Lue	Regular" />
+<Font Family="Microsoft New Tai Lue" Name="MicrosoftNewTaiLue-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Microsoft New Tai Lue	Bold" />
+<Font Family="Microsoft PhagsPa" Name="MicrosoftPhagsPa" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft PhagsPa	Regular" />
+<Font Family="Microsoft PhagsPa" Name="MicrosoftPhagsPa-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Microsoft PhagsPa	Bold" />
+<Font Family="Microsoft Sans Serif" Name="MicrosoftSansSerif" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft Sans Serif	Regular" />
+<Font Family="Microsoft Tai Le" Name="MicrosoftTaiLe" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft Tai Le	Regular" />
+<Font Family="Microsoft Tai Le" Name="MicrosoftTaiLe-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Microsoft Tai Le	Bold" />
+<Font Family="Microsoft Yi Baiti" Name="Microsoft-Yi-Baiti" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft Yi Baiti	Regular" />
+<Font Family="Minion Pro" Name="MinionPro-BoldCn" Style="Bold Cond" Status="INSTALLED" SubstitutedFont="Minion Pro	Bold Cond" />
+<Font Family="Minion Pro" Name="MinionPro-BoldCnIt" Style="Bold Cond Italic" Status="INSTALLED" SubstitutedFont="Minion Pro	Bold Cond Italic" />
+<Font Family="Minion Pro" Name="MinionPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Minion Pro	Regular" />
+<Font Family="Minion Pro" Name="MinionPro-It" Style="Italic" Status="INSTALLED" SubstitutedFont="Minion Pro	Italic" />
+<Font Family="Minion Pro" Name="MinionPro-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Minion Pro	Medium" />
+<Font Family="Minion Pro" Name="MinionPro-MediumIt" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Minion Pro	Medium Italic" />
+<Font Family="Minion Pro" Name="MinionPro-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Minion Pro	Semibold" />
+<Font Family="Minion Pro" Name="MinionPro-SemiboldIt" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="Minion Pro	Semibold Italic" />
+<Font Family="Minion Pro" Name="MinionPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Minion Pro	Bold" />
+<Font Family="Minion Pro" Name="MinionPro-BoldIt" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Minion Pro	Bold Italic" />
+<Font Family="Mistral" Name="Mistral" Style="Regular" Status="INSTALLED" SubstitutedFont="Mistral	Regular" />
+<Font Family="Modern No. 20" Name="Modern-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Modern No. 20	Regular" />
+<Font Family="Mongolian Baiti" Name="MongolianBaiti" Style="Regular" Status="INSTALLED" SubstitutedFont="Mongolian Baiti	Regular" />
+<Font Family="MoolBoran" Name="MoolBoran" Style="Regular" Status="INSTALLED" SubstitutedFont="MoolBoran	Regular" />
+<Font Family="MS Reference Sans Serif" Name="MSReferenceSansSerif" Style="Regular" Status="INSTALLED" SubstitutedFont="MS Reference Sans Serif	Regular" />
+<Font Family="MS Reference Specialty" Name="MSReferenceSpecialty" Style="Regular" Status="INSTALLED" SubstitutedFont="MS Reference Specialty	Regular" />
+<Font Family="MT Extra" Name="MT-Extra" Style="Regular" Status="INSTALLED" SubstitutedFont="MT Extra	Regular" />
+<Font Family="Museo" Name="Museo-100" Style="100" Status="INSTALLED" SubstitutedFont="Museo	100" />
+<Font Family="Museo" Name="Museo-700" Style="700" Status="INSTALLED" SubstitutedFont="Museo	700" />
+<Font Family="MV Boli" Name="MVBoli" Style="Regular" Status="INSTALLED" SubstitutedFont="MV Boli	Regular" />
+<Font Family="Myriad MM" Name="MyriadMM" Style="Regular" Status="INSTALLED" SubstitutedFont="Myriad MM	Regular" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightCond" Style="Light Condensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light Condensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightCondIt" Style="Light Condensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light Condensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Cond" Style="Condensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Condensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-CondIt" Style="Condensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Condensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldCond" Style="Semibold Condensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold Condensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldCondIt" Style="Semibold Condensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold Condensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldCond" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold Condensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldCondIt" Style="Bold Condensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold Condensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackCond" Style="Black Condensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black Condensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackCondIt" Style="Black Condensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black Condensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightSemiCn" Style="Light SemiCondensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light SemiCondensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightSemiCnIt" Style="Light SemiCondensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light SemiCondensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiCn" Style="SemiCondensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	SemiCondensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiCnIt" Style="SemiCondensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	SemiCondensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldSemiCn" Style="Semibold SemiCondensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold SemiCondensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldSemiCnIt" Style="Semibold SemiCondensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold SemiCondensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldSemiCn" Style="Bold SemiCondensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold SemiCondensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldSemiCnIt" Style="Bold SemiCondensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold SemiCondensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackSemiCn" Style="Black SemiCondensed" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black SemiCondensed" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackSemiCnIt" Style="Black SemiCondensed Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black SemiCondensed Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightIt" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Myriad Pro	Regular" />
+<Font Family="Myriad Pro" Name="MyriadPro-It" Style="Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldIt" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldIt" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackIt" Style="Black Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightSemiExt" Style="Light SemiExtended" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light SemiExtended" />
+<Font Family="Myriad Pro" Name="MyriadPro-LightSemiExtIt" Style="Light SemiExtended Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Light SemiExtended Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiExt" Style="SemiExtended" Status="INSTALLED" SubstitutedFont="Myriad Pro	SemiExtended" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiExtIt" Style="SemiExtended Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	SemiExtended Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldSemiExt" Style="Semibold SemiExtended" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold SemiExtended" />
+<Font Family="Myriad Pro" Name="MyriadPro-SemiboldSemiExtIt" Style="Semibold SemiExtended Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Semibold SemiExtended Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldSemiExt" Style="Bold SemiExtended" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold SemiExtended" />
+<Font Family="Myriad Pro" Name="MyriadPro-BoldSemiExtIt" Style="Bold SemiExtended Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Bold SemiExtended Italic" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackSemiExt" Style="Black SemiExtended" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black SemiExtended" />
+<Font Family="Myriad Pro" Name="MyriadPro-BlackSemiExtIt" Style="Black SemiExtended Italic" Status="INSTALLED" SubstitutedFont="Myriad Pro	Black SemiExtended Italic" />
+<Font Family="Myriad Std" Name="MyriadStd-Sketch" Style="Sketch" Status="INSTALLED" SubstitutedFont="Myriad Std	Sketch" />
+<Font Family="Myriad Std" Name="MyriadStd-Tilt" Style="Tilt" Status="INSTALLED" SubstitutedFont="Myriad Std	Tilt" />
+<Font Family="NationalCodes" Name="NationalCodes-Africa" Style="Regular" Status="INSTALLED" SubstitutedFont="NationalCodes	Regular" />
+<Font Family="NewBaskerville" Name="NewBaskerville-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="NewBaskerville	Italic" />
+<Font Family="NewBaskerville" Name="NewBaskerville-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="NewBaskerville	Bold" />
+<Font Family="NewBaskerville" Name="NewBaskerville-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="NewBaskerville	Bold Italic" />
+<Font Family="Niagara Engraved" Name="NiagaraEngraved-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Niagara Engraved	Regular" />
+<Font Family="Niagara Solid" Name="NiagaraSolid-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Niagara Solid	Regular" />
+<Font Family="Nueva Std" Name="NuevaStd-Cond" Style="Condensed" Status="INSTALLED" SubstitutedFont="Nueva Std	Condensed" />
+<Font Family="Nueva Std" Name="NuevaStd-CondItalic" Style="Condensed Italic" Status="INSTALLED" SubstitutedFont="Nueva Std	Condensed Italic" />
+<Font Family="Nueva Std" Name="NuevaStd-BoldCond" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Nueva Std	Bold Condensed" />
+<Font Family="Nueva Std" Name="NuevaStd-BoldCondItalic" Style="Bold Condensed Italic" Status="INSTALLED" SubstitutedFont="Nueva Std	Bold Condensed Italic" />
+<Font Family="Nyala" Name="Nyala-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Nyala	Regular" />
+<Font Family="OCR A Extended" Name="OCRAExtended" Style="Regular" Status="INSTALLED" SubstitutedFont="OCR A Extended	Regular" />
+<Font Family="OCR A Std" Name="OCRAStd" Style="Regular" Status="INSTALLED" SubstitutedFont="OCR A Std	Regular" />
+<Font Family="OCRB" Name="OCRB" Style="Regular" Status="INSTALLED" SubstitutedFont="OCRB	Regular" />
+<Font Family="Old English Text MT" Name="OldEnglishTextMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Old English Text MT	Regular" />
+<Font Family="Onyx" Name="Onyx" Style="Regular" Status="INSTALLED" SubstitutedFont="Onyx	Regular" />
+<Font Family="Orator Std" Name="OratorStd" Style="Medium" Status="INSTALLED" SubstitutedFont="Orator Std	Medium" />
+<Font Family="Orator Std" Name="OratorStd-Slanted" Style="Slanted" Status="INSTALLED" SubstitutedFont="Orator Std	Slanted" />
+<Font Family="Palace Script MT" Name="PalaceScriptMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Palace Script MT	Regular" />
+<Font Family="Palatino Linotype" Name="PalatinoLinotype-Roman" Style="Regular" Status="INSTALLED" SubstitutedFont="Palatino Linotype	Regular" />
+<Font Family="Palatino Linotype" Name="PalatinoLinotype-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Palatino Linotype	Italic" />
+<Font Family="Palatino Linotype" Name="PalatinoLinotype-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Palatino Linotype	Bold" />
+<Font Family="Palatino Linotype" Name="PalatinoLinotype-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Palatino Linotype	Bold Italic" />
+<Font Family="Papyrus" Name="Papyrus-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Papyrus	Regular" />
+<Font Family="Parchment" Name="Parchment-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Parchment	Regular" />
+<Font Family="Perpetua" Name="Perpetua" Style="Regular" Status="INSTALLED" SubstitutedFont="Perpetua	Regular" />
+<Font Family="Perpetua" Name="Perpetua-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Perpetua	Italic" />
+<Font Family="Perpetua" Name="Perpetua-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Perpetua	Bold" />
+<Font Family="Perpetua" Name="Perpetua-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Perpetua	Bold Italic" />
+<Font Family="Perpetua Titling MT" Name="PerpetuaTitlingMT-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Perpetua Titling MT	Light" />
+<Font Family="Perpetua Titling MT" Name="PerpetuaTitlingMT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Perpetua Titling MT	Bold" />
+<Font Family="Plantagenet Cherokee" Name="PlantagenetCherokee" Style="Regular" Status="INSTALLED" SubstitutedFont="Plantagenet Cherokee	Regular" />
+<Font Family="Playbill" Name="Playbill" Style="Regular" Status="INSTALLED" SubstitutedFont="Playbill	Regular" />
+<Font Family="Poor Richard" Name="PoorRichard-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Poor Richard	Regular" />
+<Font Family="Poplar Std" Name="PoplarStd" Style="Black" Status="INSTALLED" SubstitutedFont="Poplar Std	Black" />
+<Font Family="Prestige Elite Std" Name="PrestigeEliteStd-Bd" Style="Bold" Status="INSTALLED" SubstitutedFont="Prestige Elite Std	Bold" />
+<Font Family="Pristina" Name="Pristina-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Pristina	Regular" />
+<Font Family="Quark Invisibles" Name="QuarkInvisibles" Style="Regular" Status="INSTALLED" SubstitutedFont="Quark Invisibles	Regular" />
+<Font Family="Raavi" Name="Raavi" Style="Regular" Status="INSTALLED" SubstitutedFont="Raavi	Regular" />
+<Font Family="Rage Italic" Name="RageItalic" Style="Regular" Status="INSTALLED" SubstitutedFont="Rage Italic	Regular" />
+<Font Family="Ravie" Name="Ravie" Style="Regular" Status="INSTALLED" SubstitutedFont="Ravie	Regular" />
+<Font Family="Rockwell" Name="Rockwell-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Rockwell	Light" />
+<Font Family="Rockwell" Name="Rockwell-LightItalic" Style="Light Italic" Status="INSTALLED" SubstitutedFont="Rockwell	Light Italic" />
+<Font Family="Rockwell" Name="Rockwell" Style="Regular" Status="INSTALLED" SubstitutedFont="Rockwell	Regular" />
+<Font Family="Rockwell" Name="Rockwell-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Rockwell	Italic" />
+<Font Family="Rockwell" Name="Rockwell-BoldCondensed" Style="Bold" Status="INSTALLED" SubstitutedFont="Rockwell	Bold" />
+<Font Family="Rockwell" Name="Rockwell-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Rockwell	Bold Italic" />
+<Font Family="Rockwell Condensed" Name="Rockwell-CondensedBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Rockwell Condensed	Bold" />
+<Font Family="Rosewood Std" Name="RosewoodStd-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Rosewood Std	Regular" />
+<Font Family="RotisSansSerif" Name="RotisSansSerif" Style="Regular" Status="INSTALLED" SubstitutedFont="RotisSansSerif	Regular" />
+<Font Family="RotisSansSerif" Name="RotisSansSerif-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="RotisSansSerif	Italic" />
+<Font Family="RotisSansSerif 46" Name="RotisSansSerif-LightItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="RotisSansSerif 46	Italic" />
+<Font Family="RotisSansSerif 65" Name="RotisSansSerif-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="RotisSansSerif 65	Bold" />
+<Font Family="RotisSansSerif ExtraBold" Name="RotisSansSerif-ExtraBold" Style="ExtraBold" Status="INSTALLED" SubstitutedFont="RotisSansSerif ExtraBold	ExtraBold" />
+<Font Family="Sakkal Majalla" Name="SakkalMajalla" Style="Regular" Status="INSTALLED" SubstitutedFont="Sakkal Majalla	Regular" />
+<Font Family="Sakkal Majalla" Name="SakkalMajallaBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Sakkal Majalla	Bold" />
+<Font Family="Script MT Bold" Name="ScriptMTBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Script MT Bold	Regular" />
+<Font Family="Segoe Print" Name="SegoePrint" Style="Regular" Status="INSTALLED" SubstitutedFont="Segoe Print	Regular" />
+<Font Family="Segoe Print" Name="SegoePrint-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Segoe Print	Bold" />
+<Font Family="Segoe Script" Name="SegoeScript" Style="Regular" Status="INSTALLED" SubstitutedFont="Segoe Script	Regular" />
+<Font Family="Segoe Script" Name="SegoeScript-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Segoe Script	Bold" />
+<Font Family="Segoe UI" Name="SegoeUI-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Segoe UI	Light" />
+<Font Family="Segoe UI" Name="SegoeUI" Style="Regular" Status="INSTALLED" SubstitutedFont="Segoe UI	Regular" />
+<Font Family="Segoe UI" Name="SegoeUI-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Segoe UI	Italic" />
+<Font Family="Segoe UI" Name="SegoeUI-SemiBold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Segoe UI	Semibold" />
+<Font Family="Segoe UI" Name="SegoeUI-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Segoe UI	Bold" />
+<Font Family="Segoe UI" Name="SegoeUI-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Segoe UI	Bold Italic" />
+<Font Family="Segoe UI Symbol" Name="SegoeUISymbol" Style="Regular" Status="INSTALLED" SubstitutedFont="Segoe UI Symbol	Regular" />
+<Font Family="Shonar Bangla" Name="ShonarBangla" Style="Regular" Status="INSTALLED" SubstitutedFont="Shonar Bangla	Regular" />
+<Font Family="Shonar Bangla" Name="ShonarBangla-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Shonar Bangla	Bold" />
+<Font Family="Showcard Gothic" Name="ShowcardGothic-Reg" Style="Regular" Status="INSTALLED" SubstitutedFont="Showcard Gothic	Regular" />
+<Font Family="Shruti" Name="Shruti" Style="Regular" Status="INSTALLED" SubstitutedFont="Shruti	Regular" />
+<Font Family="Shruti" Name="Shruti-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Shruti	Bold" />
+<Font Family="Snap ITC" Name="SnapITC-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Snap ITC	Regular" />
+<Font Family="Stainless-Black" Name="Stainless-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="Stainless-Black	Regular" />
+<Font Family="Stainless-Bold" Name="Stainless-Bold" Style="Regular" Status="INSTALLED" SubstitutedFont="Stainless-Bold	Regular" />
+<Font Family="Stainless-Light" Name="Stainless-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="Stainless-Light	Regular" />
+<Font Family="StainlessComp-Regular" Name="StainlessComp-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="StainlessComp-Regular	Regular" />
+<Font Family="StainlessCond-Black" Name="StainlessCond-Black" Style="Regular" Status="INSTALLED" SubstitutedFont="StainlessCond-Black	Regular" />
+<Font Family="StainlessCond-Bold" Name="StainlessCond-Bold" Style="Regular" Status="INSTALLED" SubstitutedFont="StainlessCond-Bold	Regular" />
+<Font Family="StainlessCond-Light" Name="StainlessCond-Light" Style="Regular" Status="INSTALLED" SubstitutedFont="StainlessCond-Light	Regular" />
+<Font Family="StainlessCond-Regular" Name="StainlessCond-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="StainlessCond-Regular	Regular" />
+<Font Family="StainlessExt" Name="StainlessExt-Black" Style="Black" Status="INSTALLED" SubstitutedFont="StainlessExt	Black" />
+<Font Family="StainlessExt" Name="StainlessExt-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="StainlessExt	Bold" />
+<Font Family="Stencil" Name="Stencil" Style="Regular" Status="INSTALLED" SubstitutedFont="Stencil	Regular" />
+<Font Family="Stencil Std" Name="StencilStd" Style="Bold" Status="INSTALLED" SubstitutedFont="Stencil Std	Bold" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Medium" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-MediumItal" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Medium Italic" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Semibold" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-SemiboldIt" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Semibold Italic" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Bold" />
+<Font Family="ITC Stone Informal Std" Name="StoneInformalStd-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Informal Std	Bold Italic" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-Phonetic" Style="Phonetic" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Phonetic" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Medium" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Medium Italic" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Semibold" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-SemiboldItalic" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Semibold Italic" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Bold" />
+<Font Family="ITC Stone Sans Std" Name="StoneSansStd-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Sans Std	Bold Italic" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-Phonetic" Style="Phonetic" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Phonetic" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Medium" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Medium Italic" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Semibold" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-SemiboldIt" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Semibold Italic" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Bold" />
+<Font Family="ITC Stone Serif Std" Name="StoneSerifStd-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="ITC Stone Serif Std	Bold Italic" />
+<Font Family="Streetbrush" Name="Streetbrush" Style="Regular" Status="INSTALLED" SubstitutedFont="Streetbrush	Regular" />
+<Font Family="Sylfaen" Name="Sylfaen" Style="Regular" Status="INSTALLED" SubstitutedFont="Sylfaen	Regular" />
+<Font Family="Symbol" Name="SymbolMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Symbol	Regular" />
+<Font Family="Tahoma" Name="Tahoma" Style="Regular" Status="INSTALLED" SubstitutedFont="Tahoma	Regular" />
+<Font Family="Tahoma" Name="Tahoma-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Tahoma	Bold" />
+<Font Family="Tekton Pro" Name="TektonPro-BoldCond" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Tekton Pro	Bold Condensed" />
+<Font Family="Tekton Pro" Name="TektonPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Tekton Pro	Bold" />
+<Font Family="Tekton Pro" Name="TektonPro-BoldObl" Style="Bold Oblique" Status="INSTALLED" SubstitutedFont="Tekton Pro	Bold Oblique" />
+<Font Family="Tekton Pro" Name="TektonPro-BoldExt" Style="Bold Extended" Status="INSTALLED" SubstitutedFont="Tekton Pro	Bold Extended" />
+<Font Family="Tempus Sans ITC" Name="TempusSansITC" Style="Regular" Status="INSTALLED" SubstitutedFont="Tempus Sans ITC	Regular" />
+<Font Family="TH SarabunPSK" Name="THSarabunPSK" Style="Regular" Status="INSTALLED" SubstitutedFont="TH SarabunPSK	Regular" />
+<Font Family="Times" Name="Times-Roman" Style="Roman" Status="INSTALLED" SubstitutedFont="Times	Roman" />
+<Font Family="Times" Name="Times-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Times	Italic" />
+<Font Family="Times" Name="Times-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Times	Bold" />
+<Font Family="Times" Name="Times-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Times	Bold Italic" />
+<Font Family="Times New Roman" Name="TimesNewRomanPSMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Times New Roman	Regular" />
+<Font Family="Times New Roman" Name="TimesNewRomanPS-ItalicMT" Style="Italic" Status="INSTALLED" SubstitutedFont="Times New Roman	Italic" />
+<Font Family="Times New Roman" Name="TimesNewRomanPS-BoldMT" Style="Bold" Status="INSTALLED" SubstitutedFont="Times New Roman	Bold" />
+<Font Family="Times New Roman" Name="TimesNewRomanPS-BoldItalicMT" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Times New Roman	Bold Italic" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-Cond" Style="Condensed" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Condensed" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-CondIt" Style="Condensed Italic" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Condensed Italic" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-BoldCond" Style="Bold Condensed" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Bold Condensed" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd" Style="Regular" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Regular" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Italic" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Bold" />
+<Font Family="Times New Roman MT Std" Name="TimesNewRomanMTStd-BoldIt" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Times New Roman MT Std	Bold Italic" />
+<Font Family="Times New Roman PS Pro" Name="TimesNewRomanPSPro-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Times New Roman PS Pro	Italic" />
+<Font Family="Times NR MT Pro" Name="TimesNRMTPro" Style="Regular" Status="INSTALLED" SubstitutedFont="Times NR MT Pro	Regular" />
+<Font Family="Trade Gothic LH" Name="TradeGothicLH-Extended" Style="Extended" Status="INSTALLED" SubstitutedFont="Trade Gothic LH	Extended" />
+<Font Family="Trade Gothic LH" Name="TradeGothicLH-BoldExtended" Style="Bold Extended" Status="INSTALLED" SubstitutedFont="Trade Gothic LH	Bold Extended" />
+<Font Family="Trade Gothic LT" Name="TradeGothicLT-CondEighteen" Style="Regular" Status="INSTALLED" SubstitutedFont="Trade Gothic LT	Regular" />
+<Font Family="Trade Gothic LT" Name="TradeGothicLT-BoldCondTwenty" Style="Bold" Status="INSTALLED" SubstitutedFont="Trade Gothic LT	Bold" />
+<Font Family="Trade Gothic LT Std" Name="TradeGothicLTStd-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Trade Gothic LT Std	Bold" />
+<Font Family="TradeGothic" Name="TradeGothic" Style="Regular" Status="INSTALLED" SubstitutedFont="TradeGothic	Regular" />
+<Font Family="Trajan Pro" Name="TrajanPro-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Trajan Pro	Regular" />
+<Font Family="Trajan Pro" Name="TrajanPro-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Trajan Pro	Bold" />
+<Font Family="Trebuchet MS" Name="TrebuchetMS" Style="Regular" Status="INSTALLED" SubstitutedFont="Trebuchet MS	Regular" />
+<Font Family="Trebuchet MS" Name="TrebuchetMS-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Trebuchet MS	Italic" />
+<Font Family="Trebuchet MS" Name="TrebuchetMS-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Trebuchet MS	Bold" />
+<Font Family="Trebuchet MS" Name="Trebuchet-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Trebuchet MS	Bold Italic" />
+<Font Family="Tunga" Name="Tunga" Style="Regular" Status="INSTALLED" SubstitutedFont="Tunga	Regular" />
+<Font Family="Tunga" Name="Tunga-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Tunga	Bold" />
+<Font Family="Tw Cen MT" Name="TwCenMT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Tw Cen MT	Regular" />
+<Font Family="Tw Cen MT" Name="TwCenMT-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Tw Cen MT	Italic" />
+<Font Family="Tw Cen MT" Name="TwCenMT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Tw Cen MT	Bold" />
+<Font Family="Tw Cen MT" Name="TwCenMT-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Tw Cen MT	Bold Italic" />
+<Font Family="Tw Cen MT Condensed" Name="TwCenMT-Condensed" Style="Regular" Status="INSTALLED" SubstitutedFont="Tw Cen MT Condensed	Regular" />
+<Font Family="Tw Cen MT Condensed" Name="TwCenMT-CondensedBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Tw Cen MT Condensed	Bold" />
+<Font Family="Tw Cen MT Condensed Extra Bold" Name="TwCenMT-CondensedExtraBold" Style="Regular" Status="INSTALLED" SubstitutedFont="Tw Cen MT Condensed Extra Bold	Regular" />
+<Font Family="Univers" Name="Univers" Style="Regular" Status="INSTALLED" SubstitutedFont="Univers	Regular" />
+<Font Family="Univers" Name="Univers-CondensedOblique" Style="Italic" Status="INSTALLED" SubstitutedFont="Univers	Italic" />
+<Font Family="Univers" Name="Univers-Black" Style="Bold" Status="INSTALLED" SubstitutedFont="Univers	Bold" />
+<Font Family="Univers" Name="Univers-BlackOblique" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Univers	Bold Italic" />
+<Font Family="Univers Com" Name="UniversCom-47LightCond" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Univers Com	47 Light Condensed" />
+<Font Family="Univers Com" Name="UniversCom-47LightCondObl" Style="47 Light Condensed Oblique" Status="INSTALLED" SubstitutedFont="Univers Com	47 Light Condensed Oblique" />
+<Font Family="Univers LT Pro" Name="UniversLTPro-BoldCond" Style="67 Bold Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Pro	67 Bold Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-ThinUltraCn" Style="39 Thin Ultra Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Std	39 Thin Ultra Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-LightUltraCn" Style="49 Light Ultra Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Std	49 Light Ultra Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-UltraCn" Style="59 Ultra Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Std	59 Ultra Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-Cn" Style="57 Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Std	57 Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-CnObl" Style="57 Condensed Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	57 Condensed Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BoldCn" Style="67 Bold Condensed" Status="INSTALLED" SubstitutedFont="Univers LT Std	67 Bold Condensed" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BoldCnObl" Style="67 Bold Condensed Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	67 Bold Condensed Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Univers LT Std	55 Roman" />
+<Font Family="Univers LT Std" Name="UniversLTStd-Obl" Style="55 Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	55 Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-Bold" Style="65 Bold" Status="INSTALLED" SubstitutedFont="Univers LT Std	65 Bold" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BoldObl" Style="65 Bold Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	65 Bold Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-XBlack" Style="85 Extra Black" Status="INSTALLED" SubstitutedFont="Univers LT Std	85 Extra Black" />
+<Font Family="Univers LT Std" Name="UniversLTStd-XBlackObl" Style="85 Extra Black Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	85 Extra Black Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BoldEx" Style="63 Bold Extended" Status="INSTALLED" SubstitutedFont="Univers LT Std	63 Bold Extended" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BoldExObl" Style="63 Bold Extended Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	63 Bold Extended Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BlackEx" Style="73 Black Extended" Status="INSTALLED" SubstitutedFont="Univers LT Std	73 Black Extended" />
+<Font Family="Univers LT Std" Name="UniversLTStd-BlackExObl" Style="73 Black Extended Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	73 Black Extended Oblique" />
+<Font Family="Univers LT Std" Name="UniversLTStd-XBlackEx" Style="93 Extra Black Extended" Status="INSTALLED" SubstitutedFont="Univers LT Std	93 Extra Black Extended" />
+<Font Family="Univers LT Std" Name="UniversLTStd-XBlackExObl" Style="93 Extra Black Extended Oblique" Status="INSTALLED" SubstitutedFont="Univers LT Std	93 Extra Black Extended Oblique" />
+<Font Family="Utsaah" Name="Utsaah" Style="Regular" Status="INSTALLED" SubstitutedFont="Utsaah	Regular" />
+<Font Family="Utsaah" Name="Utsaah-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Utsaah	Italic" />
+<Font Family="Utsaah" Name="Utsaah-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Utsaah	Bold" />
+<Font Family="Utsaah" Name="Utsaah-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Utsaah	Bold Italic" />
+<Font Family="Vani" Name="Vani" Style="Regular" Status="INSTALLED" SubstitutedFont="Vani	Regular" />
+<Font Family="Vani" Name="Vani-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Vani	Bold" />
+<Font Family="Verdana" Name="Verdana" Style="Regular" Status="INSTALLED" SubstitutedFont="Verdana	Regular" />
+<Font Family="Verdana" Name="Verdana-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Verdana	Italic" />
+<Font Family="Verdana" Name="Verdana-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Verdana	Bold" />
+<Font Family="Verdana" Name="Verdana-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Verdana	Bold Italic" />
+<Font Family="Vijaya" Name="Vijaya" Style="Regular" Status="INSTALLED" SubstitutedFont="Vijaya	Regular" />
+<Font Family="Vijaya" Name="Vijaya-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Vijaya	Bold" />
+<Font Family="Viner Hand ITC" Name="VinerHandITC" Style="Regular" Status="INSTALLED" SubstitutedFont="Viner Hand ITC	Regular" />
+<Font Family="Vivaldi" Name="Vivaldii" Style="Italic" Status="INSTALLED" SubstitutedFont="Vivaldi	Italic" />
+<Font Family="Vladimir Script" Name="VladimirScript" Style="Regular" Status="INSTALLED" SubstitutedFont="Vladimir Script	Regular" />
+<Font Family="Vrinda" Name="Vrinda" Style="Regular" Status="INSTALLED" SubstitutedFont="Vrinda	Regular" />
+<Font Family="Vrinda" Name="Vrinda-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Vrinda	Bold" />
+<Font Family="Webdings" Name="Webdings" Style="Regular" Status="INSTALLED" SubstitutedFont="Webdings	Regular" />
+<Font Family="Whitney" Name="Whitney-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Whitney	Light" />
+<Font Family="Whitney" Name="Whitney-Book" Style="Book" Status="INSTALLED" SubstitutedFont="Whitney	Book" />
+<Font Family="Whitney" Name="Whitney-BookItalic" Style="Book Italic" Status="INSTALLED" SubstitutedFont="Whitney	Book Italic" />
+<Font Family="Whitney" Name="Whitney-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="Whitney	Medium" />
+<Font Family="Whitney" Name="Whitney-MediumItalic" Style="Medium Italic" Status="INSTALLED" SubstitutedFont="Whitney	Medium Italic" />
+<Font Family="Whitney" Name="Whitney-Semibold" Style="Semibold" Status="INSTALLED" SubstitutedFont="Whitney	Semibold" />
+<Font Family="Whitney" Name="Whitney-SemiboldItalic" Style="Semibold Italic" Status="INSTALLED" SubstitutedFont="Whitney	Semibold Italic" />
+<Font Family="Whitney" Name="Whitney-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Whitney	Bold" />
+<Font Family="Whitney" Name="Whitney-Black" Style="Black" Status="INSTALLED" SubstitutedFont="Whitney	Black" />
+<Font Family="Wide Latin" Name="LatinWide" Style="Regular" Status="INSTALLED" SubstitutedFont="Wide Latin	Regular" />
+<Font Family="Wingdings" Name="Wingdings" Style="Regular" Status="INSTALLED" SubstitutedFont="Wingdings	Regular" />
+<Font Family="Wingdings 2" Name="Wingdings2" Style="Regular" Status="INSTALLED" SubstitutedFont="Wingdings 2	Regular" />
+<Font Family="Wingdings 3" Name="Wingdings3" Style="Regular" Status="INSTALLED" SubstitutedFont="Wingdings 3	Regular" />
+<Font Family="ITC Zapf Dingbats" Name="ZapfDingbats" Style="Medium" Status="INSTALLED" SubstitutedFont="ITC Zapf Dingbats	Medium" />
+<Font Family="Zapf Dingbats" Name="ZapfDingbatsITC" Style="Regular" Status="INSTALLED" SubstitutedFont="Zapf Dingbats	Regular" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-ExtraLight" Style="EL" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	EL" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-Light" Style="L" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	L" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	R" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-Medium" Style="M" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	M" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	B" />
+<Font Family="Kozuka Gothic Pr6N" Name="KozGoPr6N-Heavy" Style="H" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pr6N	H" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-ExtraLight" Style="EL" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	EL" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-Light" Style="L" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	L" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	R" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-Medium" Style="M" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	M" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	B" />
+<Font Family="Kozuka Gothic Pro" Name="KozGoPro-Heavy" Style="H" Status="INSTALLED" SubstitutedFont="Kozuka Gothic Pro	H" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-ExtraLight" Style="EL" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	EL" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-Light" Style="L" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	L" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	R" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-Medium" Style="M" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	M" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	B" />
+<Font Family="Kozuka Mincho Pr6N" Name="KozMinPr6N-Heavy" Style="H" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pr6N	H" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-ExtraLight" Style="EL" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	EL" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-Light" Style="L" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	L" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	R" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-Medium" Style="M" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	M" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	B" />
+<Font Family="Kozuka Mincho Pro" Name="KozMinPro-Heavy" Style="H" Status="INSTALLED" SubstitutedFont="Kozuka Mincho Pro	H" />
+<Font Family="Meiryo" Name="Meiryo" Style="Regular" Status="INSTALLED" SubstitutedFont="Meiryo	Regular" />
+<Font Family="Meiryo" Name="Meiryo-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Meiryo	Italic" />
+<Font Family="Meiryo" Name="Meiryo-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Meiryo	Bold" />
+<Font Family="Meiryo" Name="Meiryo-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Meiryo	Bold Italic" />
+<Font Family="Meiryo UI" Name="MeiryoUI" Style="Regular" Status="INSTALLED" SubstitutedFont="Meiryo UI	Regular" />
+<Font Family="Meiryo UI" Name="MeiryoUI-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Meiryo UI	Italic" />
+<Font Family="Meiryo UI" Name="MeiryoUI-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Meiryo UI	Bold" />
+<Font Family="Meiryo UI" Name="MeiryoUI-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Meiryo UI	Bold Italic" />
+<Font Family="MS Gothic" Name="MS-Gothic" Style="Regular" Status="INSTALLED" SubstitutedFont="MS Gothic	Regular" />
+<Font Family="MS Mincho" Name="MS-Mincho" Style="Regular" Status="INSTALLED" SubstitutedFont="MS Mincho	Regular" />
+<Font Family="MS PGothic" Name="MS-PGothic" Style="Regular" Status="INSTALLED" SubstitutedFont="MS PGothic	Regular" />
+<Font Family="MS PMincho" Name="MS-PMincho" Style="Regular" Status="INSTALLED" SubstitutedFont="MS PMincho	Regular" />
+<Font Family="MS UI Gothic" Name="MS-UIGothic" Style="Regular" Status="INSTALLED" SubstitutedFont="MS UI Gothic	Regular" />
+<Font Family="DFKai-SB" Name="DFKaiShu-SB-Estd-BF" Style="Regular" Status="INSTALLED" SubstitutedFont="DFKai-SB	Regular" />
+<Font Family="Adobe Fan Heiti Std" Name="AdobeFanHeitiStd-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Adobe Fan Heiti Std	B" />
+<Font Family="Microsoft JhengHei" Name="MicrosoftJhengHeiRegular" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft JhengHei	Regular" />
+<Font Family="Microsoft JhengHei" Name="MicrosoftJhengHeiBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Microsoft JhengHei	Bold" />
+<Font Family="Adobe Ming Std" Name="AdobeMingStd-Light" Style="L" Status="INSTALLED" SubstitutedFont="Adobe Ming Std	L" />
+<Font Family="MingLiU" Name="MingLiU" Style="Regular" Status="INSTALLED" SubstitutedFont="MingLiU	Regular" />
+<Font Family="MingLiU-ExtB" Name="MingLiU-ExtB" Style="Regular" Status="INSTALLED" SubstitutedFont="MingLiU-ExtB	Regular" />
+<Font Family="MingLiU_HKSCS" Name="Ming-Lt-HKSCS-UNI-H" Style="Regular" Status="INSTALLED" SubstitutedFont="MingLiU_HKSCS	Regular" />
+<Font Family="MingLiU_HKSCS-ExtB" Name="Ming-Lt-HKSCS-ExtB" Style="Regular" Status="INSTALLED" SubstitutedFont="MingLiU_HKSCS-ExtB	Regular" />
+<Font Family="PMingLiU" Name="PMingLiU" Style="Regular" Status="INSTALLED" SubstitutedFont="PMingLiU	Regular" />
+<Font Family="PMingLiU-ExtB" Name="PMingLiU-ExtB" Style="Regular" Status="INSTALLED" SubstitutedFont="PMingLiU-ExtB	Regular" />
+<Font Family="CJNgaiPRC" Name="CJNgaiPRC-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="CJNgaiPRC	Bold" />
+<Font Family="FangSong" Name="FangSong" Style="Regular" Status="INSTALLED" SubstitutedFont="FangSong	Regular" />
+<Font Family="Adobe Fangsong Std" Name="AdobeFangsongStd-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Adobe Fangsong Std	R" />
+<Font Family="Adobe Heiti Std" Name="AdobeHeitiStd-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Adobe Heiti Std	R" />
+<Font Family="HYDaHeiJ" Name="HYb2gj" Style="regular" Status="INSTALLED" SubstitutedFont="HYDaHeiJ	regular" />
+<Font Family="HYZhongHeiJ" Name="HYb1gj" Style="regular" Status="INSTALLED" SubstitutedFont="HYZhongHeiJ	regular" />
+<Font Family="KaiTi" Name="KaiTi" Style="Regular" Status="INSTALLED" SubstitutedFont="KaiTi	Regular" />
+<Font Family="Adobe Kaiti Std" Name="AdobeKaitiStd-Regular" Style="R" Status="INSTALLED" SubstitutedFont="Adobe Kaiti Std	R" />
+<Font Family="MHeiPRC" Name="MHeiPRC-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="MHeiPRC	Bold" />
+<Font Family="MHeiPRC" Name="MHeiPRC-Light" Style="Light" Status="INSTALLED" SubstitutedFont="MHeiPRC	Light" />
+<Font Family="MHeiPRC" Name="MHeiPRC-Medium" Style="Medium" Status="INSTALLED" SubstitutedFont="MHeiPRC	Medium" />
+<Font Family="MHeiPRC" Name="MHeiPRC-Xbold" Style="Xbold" Status="INSTALLED" SubstitutedFont="MHeiPRC	Xbold" />
+<Font Family="Microsoft YaHei" Name="MicrosoftYaHei" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft YaHei	Regular" />
+<Font Family="Microsoft YaHei" Name="MicrosoftYaHei-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Microsoft YaHei	Bold" />
+<Font Family="NSimSun" Name="NSimSun" Style="Regular" Status="INSTALLED" SubstitutedFont="NSimSun	Regular" />
+<Font Family="SimHei" Name="SimHei" Style="Regular" Status="INSTALLED" SubstitutedFont="SimHei	Regular" />
+<Font Family="SimSun" Name="SimSun" Style="Regular" Status="INSTALLED" SubstitutedFont="SimSun	Regular" />
+<Font Family="SimSun-ExtB" Name="SimSun-ExtB" Style="Regular" Status="INSTALLED" SubstitutedFont="SimSun-ExtB	Regular" />
+<Font Family="Adobe Song Std" Name="AdobeSongStd-Light" Style="L" Status="INSTALLED" SubstitutedFont="Adobe Song Std	L" />
+<Font Family="Arial Unicode MS" Name="ArialUnicodeMS" Style="Regular" Status="INSTALLED" SubstitutedFont="Arial Unicode MS	Regular" />
+<Font Family="Batang" Name="Batang" Style="Regular" Status="INSTALLED" SubstitutedFont="Batang	Regular" />
+<Font Family="BatangChe" Name="BatangChe" Style="Medium" Status="INSTALLED" SubstitutedFont="BatangChe	Medium" />
+<Font Family="Dotum" Name="Dotum" Style="Regular" Status="INSTALLED" SubstitutedFont="Dotum	Regular" />
+<Font Family="DotumChe" Name="DotumChe" Style="Regular" Status="INSTALLED" SubstitutedFont="DotumChe	Regular" />
+<Font Family="Adobe Gothic Std" Name="AdobeGothicStd-Bold" Style="B" Status="INSTALLED" SubstitutedFont="Adobe Gothic Std	B" />
+<Font Family="Gulim" Name="Gulim" Style="Regular" Status="INSTALLED" SubstitutedFont="Gulim	Regular" />
+<Font Family="GulimChe" Name="GulimChe" Style="Regular" Status="INSTALLED" SubstitutedFont="GulimChe	Regular" />
+<Font Family="Gungsuh" Name="Gungsuh" Style="Regular" Status="INSTALLED" SubstitutedFont="Gungsuh	Regular" />
+<Font Family="GungsuhChe" Name="GungsuhChe" Style="Regular" Status="INSTALLED" SubstitutedFont="GungsuhChe	Regular" />
+<Font Family="HYGraPhic" Name="HYGraPhicBold" Style="Bold" Status="INSTALLED" SubstitutedFont="HYGraPhic	Bold" />
+<Font Family="HYGraPhic" Name="HYGraPhicMedium" Style="Medium" Status="INSTALLED" SubstitutedFont="HYGraPhic	Medium" />
+<Font Family="Malgun Gothic" Name="MalgunGothicRegular" Style="Regular" Status="INSTALLED" SubstitutedFont="Malgun Gothic	Regular" />
+<Font Family="Malgun Gothic" Name="MalgunGothicBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Malgun Gothic	Bold" />
+<Font Family="Adobe Myungjo Std" Name="AdobeMyungjoStd-Medium" Style="M" Status="INSTALLED" SubstitutedFont="Adobe Myungjo Std	M" />
+<Font Family="Ahmed LT" Name="AhmedLTOutline-Regular" Style="Outline Regular" Status="INSTALLED" SubstitutedFont="Ahmed LT	Outline Regular" />
+<Font Family="Ahmed LT" Name="AhmedLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Ahmed LT	Regular" />
+<Font Family="Al Harf Al Jadid" Name="AlHarfAlJadid-Two" Style="Two" Status="INSTALLED" SubstitutedFont="Al Harf Al Jadid	Two" />
+<Font Family="AlHarfAlJadid Linotype One" Name="AlHarfAlJadid-One" Style="Regular" Status="INSTALLED" SubstitutedFont="AlHarfAlJadid Linotype One	Regular" />
+<Font Family="Amer LT" Name="AmerLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Amer LT	Regular" />
+<Font Family="Andalus" Name="Andalus" Style="Regular" Status="INSTALLED" SubstitutedFont="Andalus	Regular" />
+<Font Family="Adobe Arabic" Name="AdobeArabic-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Adobe Arabic	Regular" />
+<Font Family="Adobe Arabic" Name="AdobeArabic-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Adobe Arabic	Italic" />
+<Font Family="Adobe Arabic" Name="AdobeArabic-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Adobe Arabic	Bold" />
+<Font Family="Adobe Arabic" Name="AdobeArabic-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Adobe Arabic	Bold Italic" />
+<Font Family="ASVCodar LT" Name="ASVCodarLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="ASVCodar LT	Light" />
+<Font Family="ASVCodar LT" Name="ASVCodarLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="ASVCodar LT	Bold" />
+<Font Family="Badiya LT" Name="BadiyaLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Badiya LT	Regular" />
+<Font Family="Badiya LT" Name="BadiyaLT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Badiya LT	Bold" />
+<Font Family="Badr LT" Name="BadrLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="Badr LT	Light" />
+<Font Family="Badr LT" Name="BadrLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Badr LT	Bold" />
+<Font Family="Firas" Name="Firas" Style="Regular" Status="INSTALLED" SubstitutedFont="Firas	Regular" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-47LightCn" Style="47 Light Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	47 Light Condensed" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-57Cn" Style="57 Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	57 Condensed" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-67BoldCn" Style="67 Bold Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	67 Bold Condensed" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-77BlackCn" Style="77 Black Condensed" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	77 Black Condensed" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-45Light" Style="45 Light" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	45 Light" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-55Roman" Style="55 Roman" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	55 Roman" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-65Bold" Style="65 Bold" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	65 Bold" />
+<Font Family="Frutiger LT Arabic" Name="FrutigerLTArabic-75Black" Style="75 Black" Status="INSTALLED" SubstitutedFont="Frutiger LT Arabic	75 Black" />
+<Font Family="Hakim Ghazali" Name="HakimGhazali" Style="Regular" Status="INSTALLED" SubstitutedFont="Hakim Ghazali	Regular" />
+<Font Family="Hasan Amal" Name="HasanAmal" Style="Regular" Status="INSTALLED" SubstitutedFont="Hasan Amal	Regular" />
+<Font Family="Hassan LT" Name="HassanLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="Hassan LT	Light" />
+<Font Family="Hassan LT" Name="HassanLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Hassan LT	Bold" />
+<Font Family="Hisham LT" Name="HishamLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Hisham LT	Regular" />
+<Font Family="Insan" Name="InsanThin-Regular" Style="Thin" Status="INSTALLED" SubstitutedFont="Insan	Thin" />
+<Font Family="Insan" Name="Insan-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Insan	Regular" />
+<Font Family="Insan" Name="Insan-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Insan	Bold" />
+<Font Family="Isra" Name="IsraThin-Regular" Style="Thin" Status="INSTALLED" SubstitutedFont="Isra	Thin" />
+<Font Family="Isra" Name="Isra-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Isra	Regular" />
+<Font Family="Jalal LT" Name="JalalLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="Jalal LT	Light" />
+<Font Family="Jalal LT" Name="JalalLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Jalal LT	Bold" />
+<Font Family="Janna LT" Name="JannaLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Janna LT	Regular" />
+<Font Family="Janna LT" Name="JannaLT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Janna LT	Bold" />
+<Font Family="Karim LT" Name="KarimLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Karim LT	Regular" />
+<Font Family="Kufi LT" Name="KufiLTOutline-Regular" Style="Outline Regular" Status="INSTALLED" SubstitutedFont="Kufi LT	Outline Regular" />
+<Font Family="Kufi LT" Name="KufiLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Kufi LT	Regular" />
+<Font Family="Lotus Linotype" Name="Lotus-Light" Style="Light" Status="INSTALLED" SubstitutedFont="Lotus Linotype	Light" />
+<Font Family="Lotus Linotype" Name="Lotus-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Lotus Linotype	Bold" />
+<Font Family="Maged LT" Name="MagedLTRegular" Style="Regular" Status="INSTALLED" SubstitutedFont="Maged LT	Regular" />
+<Font Family="Maged LT" Name="MagedLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Maged LT	Bold" />
+<Font Family="Mariam Linotype" Name="Mariam" Style="Regular" Status="INSTALLED" SubstitutedFont="Mariam Linotype	Regular" />
+<Font Family="Microsoft Uighur" Name="MicrosoftUighur" Style="Regular" Status="INSTALLED" SubstitutedFont="Microsoft Uighur	Regular" />
+<Font Family="Midan" Name="Midan" Style="Regular" Status="INSTALLED" SubstitutedFont="Midan	Regular" />
+<Font Family="Mitra LT" Name="MitraLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="Mitra LT	Light" />
+<Font Family="Mitra LT" Name="MitraLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Mitra LT	Bold" />
+<Font Family="MofidMahdi LT" Name="MofidMahdiLT-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="MofidMahdi LT	Regular" />
+<Font Family="Nazanin LT" Name="NazaninLTLight" Style="Light" Status="INSTALLED" SubstitutedFont="Nazanin LT	Light" />
+<Font Family="Nazanin LT" Name="NazaninLTBold" Style="Bold" Status="INSTALLED" SubstitutedFont="Nazanin LT	Bold" />
+<Font Family="Palatino LT Arabic" Name="PalatinoLTArabic" Style="Regular" Status="INSTALLED" SubstitutedFont="Palatino LT Arabic	Regular" />
+<Font Family="Qadi Linotype" Name="QadiLinotype" Style="Regular" Status="INSTALLED" SubstitutedFont="Qadi Linotype	Regular" />
+<Font Family="Simplified Arabic" Name="SimplifiedArabic" Style="Regular" Status="INSTALLED" SubstitutedFont="Simplified Arabic	Regular" />
+<Font Family="Simplified Arabic" Name="SimplifiedArabic-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Simplified Arabic	Bold" />
+<Font Family="Simplified Arabic Fixed" Name="SimplifiedArabicFixed" Style="Regular" Status="INSTALLED" SubstitutedFont="Simplified Arabic Fixed	Regular" />
+<Font Family="Sultan Free" Name="SultanFree" Style="Regular" Status="INSTALLED" SubstitutedFont="Sultan Free	Regular" />
+<Font Family="Sultan Nahia" Name="SultanNahia" Style="Regular" Status="INSTALLED" SubstitutedFont="Sultan Nahia	Regular" />
+<Font Family="Traditional Arabic" Name="TraditionalArabic" Style="Regular" Status="INSTALLED" SubstitutedFont="Traditional Arabic	Regular" />
+<Font Family="Traditional Arabic" Name="TraditionalArabic-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Traditional Arabic	Bold" />
+<Font Family="Yakout Linotype" Name="YakoutLinotypeLight-Regular" Style="Light" Status="INSTALLED" SubstitutedFont="Yakout Linotype	Light" />
+<Font Family="Yakout Linotype" Name="YakoutLinotypeLight-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Yakout Linotype	Bold" />
+<Font Family="Aharoni" Name="Aharoni-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Aharoni	Bold" />
+<Font Family="David" Name="David" Style="Regular" Status="INSTALLED" SubstitutedFont="David	Regular" />
+<Font Family="David" Name="David-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="David	Bold" />
+<Font Family="FrankRuehl" Name="FrankRuehl" Style="Regular" Status="INSTALLED" SubstitutedFont="FrankRuehl	Regular" />
+<Font Family="Gisha" Name="Gisha" Style="Regular" Status="INSTALLED" SubstitutedFont="Gisha	Regular" />
+<Font Family="Gisha" Name="Gisha-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Gisha	Bold" />
+<Font Family="Adobe Hebrew" Name="AdobeHebrew-Regular" Style="Regular" Status="INSTALLED" SubstitutedFont="Adobe Hebrew	Regular" />
+<Font Family="Adobe Hebrew" Name="AdobeHebrew-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Adobe Hebrew	Italic" />
+<Font Family="Adobe Hebrew" Name="AdobeHebrew-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Adobe Hebrew	Bold" />
+<Font Family="Adobe Hebrew" Name="AdobeHebrew-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Adobe Hebrew	Bold Italic" />
+<Font Family="Levenim MT" Name="LevenimMT" Style="Regular" Status="INSTALLED" SubstitutedFont="Levenim MT	Regular" />
+<Font Family="Levenim MT" Name="LevenimMT-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Levenim MT	Bold" />
+<Font Family="Miriam" Name="Miriam" Style="Regular" Status="INSTALLED" SubstitutedFont="Miriam	Regular" />
+<Font Family="Miriam Fixed" Name="MiriamFixed" Style="Regular" Status="INSTALLED" SubstitutedFont="Miriam Fixed	Regular" />
+<Font Family="Narkisim" Name="Narkisim" Style="Regular" Status="INSTALLED" SubstitutedFont="Narkisim	Regular" />
+<Font Family="Rod" Name="Rod" Style="Regular" Status="INSTALLED" SubstitutedFont="Rod	Regular" />
+<Font Family="Angsana New" Name="AngsanaNew" Style="Regular" Status="INSTALLED" SubstitutedFont="Angsana New	Regular" />
+<Font Family="Angsana New" Name="AngsanaNew-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Angsana New	Italic" />
+<Font Family="Angsana New" Name="AngsanaNew-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Angsana New	Bold" />
+<Font Family="Angsana New" Name="AngsanaNew-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Angsana New	Bold Italic" />
+<Font Family="AngsanaUPC" Name="AngsanaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="AngsanaUPC	Regular" />
+<Font Family="AngsanaUPC" Name="AngsanaUPC-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="AngsanaUPC	Italic" />
+<Font Family="AngsanaUPC" Name="AngsanaUPC-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="AngsanaUPC	Bold" />
+<Font Family="AngsanaUPC" Name="AngsanaUPC-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="AngsanaUPC	Bold Italic" />
+<Font Family="Browallia New" Name="BrowalliaNew" Style="Regular" Status="INSTALLED" SubstitutedFont="Browallia New	Regular" />
+<Font Family="Browallia New" Name="BrowalliaNew-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Browallia New	Italic" />
+<Font Family="Browallia New" Name="BrowalliaNew-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Browallia New	Bold" />
+<Font Family="Browallia New" Name="BrowalliaNew-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Browallia New	Bold Italic" />
+<Font Family="BrowalliaUPC" Name="BrowalliaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="BrowalliaUPC	Regular" />
+<Font Family="BrowalliaUPC" Name="BrowalliaUPC-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="BrowalliaUPC	Italic" />
+<Font Family="BrowalliaUPC" Name="BrowalliaUPC-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="BrowalliaUPC	Bold" />
+<Font Family="BrowalliaUPC" Name="BrowalliaUPC-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="BrowalliaUPC	Bold Italic" />
+<Font Family="Cordia New" Name="CordiaNew" Style="Regular" Status="INSTALLED" SubstitutedFont="Cordia New	Regular" />
+<Font Family="Cordia New" Name="CordiaNew-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="Cordia New	Italic" />
+<Font Family="Cordia New" Name="CordiaNew-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Cordia New	Bold" />
+<Font Family="Cordia New" Name="CordiaNew-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="Cordia New	Bold Italic" />
+<Font Family="CordiaUPC" Name="CordiaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="CordiaUPC	Regular" />
+<Font Family="CordiaUPC" Name="CordiaUPC-Italic" Style="Italic" Status="INSTALLED" SubstitutedFont="CordiaUPC	Italic" />
+<Font Family="CordiaUPC" Name="CordiaUPC-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="CordiaUPC	Bold" />
+<Font Family="CordiaUPC" Name="CordiaUPC-BoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="CordiaUPC	Bold Italic" />
+<Font Family="DilleniaUPC" Name="DilleniaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="DilleniaUPC	Regular" />
+<Font Family="DilleniaUPC" Name="DilleniaUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="DilleniaUPC	Italic" />
+<Font Family="DilleniaUPC" Name="DilleniaUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="DilleniaUPC	Bold" />
+<Font Family="DilleniaUPC" Name="DilleniaUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="DilleniaUPC	Bold Italic" />
+<Font Family="DokChampa" Name="DokChampa" Style="Regular" Status="INSTALLED" SubstitutedFont="DokChampa	Regular" />
+<Font Family="EucrosiaUPC" Name="EucrosiaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="EucrosiaUPC	Regular" />
+<Font Family="EucrosiaUPC" Name="EucrosiaUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="EucrosiaUPC	Italic" />
+<Font Family="EucrosiaUPC" Name="EucrosiaUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="EucrosiaUPC	Bold" />
+<Font Family="EucrosiaUPC" Name="EucrosiaUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="EucrosiaUPC	Bold Italic" />
+<Font Family="FreesiaUPC" Name="FreesiaUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="FreesiaUPC	Regular" />
+<Font Family="FreesiaUPC" Name="FreesiaUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="FreesiaUPC	Italic" />
+<Font Family="FreesiaUPC" Name="FreesiaUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="FreesiaUPC	Bold" />
+<Font Family="FreesiaUPC" Name="FreesiaUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="FreesiaUPC	Bold Italic" />
+<Font Family="IrisUPC" Name="IrisUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="IrisUPC	Regular" />
+<Font Family="IrisUPC" Name="IrisUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="IrisUPC	Italic" />
+<Font Family="IrisUPC" Name="IrisUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="IrisUPC	Bold" />
+<Font Family="IrisUPC" Name="IrisUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="IrisUPC	Bold Italic" />
+<Font Family="JasmineUPC" Name="JasmineUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="JasmineUPC	Regular" />
+<Font Family="JasmineUPC" Name="JasmineUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="JasmineUPC	Italic" />
+<Font Family="JasmineUPC" Name="JasmineUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="JasmineUPC	Bold" />
+<Font Family="JasmineUPC" Name="JasmineUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="JasmineUPC	Bold Italic" />
+<Font Family="KodchiangUPC" Name="KodchiangUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="KodchiangUPC	Regular" />
+<Font Family="KodchiangUPC" Name="KodchiangUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="KodchiangUPC	Italic" />
+<Font Family="KodchiangUPC" Name="KodchiangUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="KodchiangUPC	Bold" />
+<Font Family="KodchiangUPC" Name="KodchiangUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="KodchiangUPC	Bold Italic" />
+<Font Family="Leelawadee" Name="Leelawadee" Style="Regular" Status="INSTALLED" SubstitutedFont="Leelawadee	Regular" />
+<Font Family="Leelawadee" Name="Leelawadee-Bold" Style="Bold" Status="INSTALLED" SubstitutedFont="Leelawadee	Bold" />
+<Font Family="LilyUPC" Name="LilyUPC" Style="Regular" Status="INSTALLED" SubstitutedFont="LilyUPC	Regular" />
+<Font Family="LilyUPC" Name="LilyUPCItalic" Style="Italic" Status="INSTALLED" SubstitutedFont="LilyUPC	Italic" />
+<Font Family="LilyUPC" Name="LilyUPCBold" Style="Bold" Status="INSTALLED" SubstitutedFont="LilyUPC	Bold" />
+<Font Family="LilyUPC" Name="LilyUPCBoldItalic" Style="Bold Italic" Status="INSTALLED" SubstitutedFont="LilyUPC	Bold Italic" />
+</ServerFonts>
+</Server>

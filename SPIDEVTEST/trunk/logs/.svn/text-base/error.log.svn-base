@@ -1,0 +1,4 @@
+15 Feb 2013, 10:27 [SoapClient] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost:5002/service?wsdl' : failed to load external entity "http://localhost:5002/service?wsdl"
+ 
+15 Feb 2013, 10:28 [SoapClient] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost:5002/service?wsdl' : failed to load external entity "http://localhost:5002/service?wsdl"
+ 

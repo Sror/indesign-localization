@@ -1,0 +1,8 @@
+Duplicated code
+[line][files]
+211 amends/default.php
+133 arttpl/default.php
+133 customise/default.php
+244 task/default.php
+
+[line][files]

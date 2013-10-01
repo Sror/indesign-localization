@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileTypes>
+	<!-- InDesign (unknown version)  from ricks PC lol-->
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>*</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d45</Pattern>
+	</File>
+	<!--Finds Version 5,6,7 note the /d BUT version 6 is detected below -->
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>$1</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e5401700f00000([1-9])000000000000000.</Pattern>
+	</File>
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>$1</Version>
+		<!--Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e5401700f00000([1-9])0000000.</Pattern -->
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e540..00....00000000([1-9])0000000\d..</Pattern>
+	</File>
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>5 (CS3)</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e540200000f700000000500000000..</Pattern>
+	</File>
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>6 (CS4)</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e5401700f00000600000000000000..</Pattern>
+	</File>
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>7 (CS5)</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e5401700f00000700000000000000..</Pattern>
+	</File>
+	<File name="Adobe InDesign Document" code="INDD">
+		<Extension>INDD</Extension>
+		<Version>7.5 (CS5.5)</Version>
+		<Pattern>0606edf5d81d46e5bd31efe7fe74b71d444f43554d454e5401700f000007000000050000000.</Pattern>
+	</File>
+	<File name="Quark Xpress Project" code="QXP">
+		<Extension>QXP/QXD</Extension>
+		<Version>-</Version>
+		<Pattern>0000....585052........................................</Pattern>
+	</File>
+	<File name="Quark Xpress Project" code="QXP">
+		<Extension>QXP/QXD</Extension>
+		<Version>-</Version>
+		<Pattern>000516070002000000000000000000000000000000000000000</Pattern>
+	</File>
+	<File name="Quark Xpress 8 Document" code="QXP">
+		<Extension>QXP/QXD</Extension>
+		<Version>8</Version>
+		<Pattern>00004.4.58505233........5850000000000000000000000000000000000000000000000000</Pattern>
+	</File>
+	<File name="Quark Xpress 7 Document" code="QXP">
+		<Extension>QXP/QXD</Extension>
+		<Version>7</Version>
+		<Pattern>0000494958505233442044205850000000000000000000000000000000000000000000000000</Pattern>
+	</File>
+	<File name="Quark Xpress 7 Template" code="QXP">
+		<Extension>QPT</Extension>
+		<Version>7</Version>
+		<Pattern>0000494958505233442044205854000000000000000000000000000000000000000000000000</Pattern>
+	</File>
+	<File name="Quark Xpress 8 Document" code="QXP">
+		<Extension>QXP/QXD</Extension>
+		<Version>8</Version>
+		<Pattern>0000494958505233452045205850000000000000000000000000000000000000000000000000</Pattern>
+	</File>
+	<File name="Quark Xpress 8 Template" code="QXP">
+		<Extension>QPT</Extension>
+		<Version>8</Version>
+		<Pattern>0000494958505233452045205854000000000000000000000000000000000000000000000000</Pattern>
+	</File>
+</FileTypes>

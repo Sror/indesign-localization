@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML
+END
+PPTX.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/PPTX.php
+END
+DocX_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/DocX_helper.php
+END
+DOCX.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/DOCX.php
+END
+XLSX.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/XLSX.php
+END
+XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/XML.php
+END
+OPENXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/OPENXML.php
+END
+IDML.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/IDML.php
+END
+compile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/devtest/!svn/ver/2/trunk/classes/engines/OpenXML/compile.php
+END
